@@ -1,0 +1,75 @@
+---
+title: "Kyle McKay, Ph.D., P.E."
+image: images/McKay_Profile_Pic_SA.jpeg
+description: "Environmental Director \n kyle.mckay@woolpert.com"
+about:
+  template: trestles
+  image: images/McKay_Profile_Pic_SA.jpeg
+  links:
+    - icon: globe
+      text: Website
+      href: https://skmckay.github.io/
+    - icon: github
+      text: Github
+      href: https://github.com/skmckay
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=COpxeksAAAAJ&hl=en
+    - icon: globe
+      text: Woolpert
+      href: https://woolpert.com/
+    - icon: globe
+      text: University of Georgia's River Basin Center
+      href: https://rivercenter.uga.edu/
+    - icon: globe
+      text: Network for Engineering with Nature (N-EWN)
+      href: https://n-ewn.org/
+    
+order: 1
+---
+
+Dr. Kyle McKay is an ecological engineer with interests in nature-based solutions, ecosystem restoration, and ecological modeling. He is environmental director for Woolpert, an architecture, engineering, and geospatial company.
+
+## Education & Licensing
+
+Ph.D., Ecology, University of Georgia, 2014
+
+M.S., Civil Engineering (Environmental Hydrology and Hydraulic Engineering), University of Illinois Urbana-Champaign, 2007
+
+B.S., Environmental Engineering, Colorado State University, 2001-2005
+
+Professional Engineer in Georgia (#PE040542), 2016-Present
+
+## Professional Appointments
+
+Environmental Director – Woolpert, New York, NY, June 2025 - Present
+
+-   Develop environmental services capabilities across the company with an emphasis on nature-based solutions and ecological data analytics.\
+-   Lead technical activities on cross-sector environmental projects.\
+-   Foster external partnerships and collaborations.
+
+University Appointments
+
+-   Adjunct faculty, University of Maine, Aug 2023-Present\
+-   Ad Honorem Advisory Committee Member, University of Puerto Rico – Mayagüez, Department of Marine Sciences, Nov 2022-Present\
+-   Adjunct faculty, UGA Odum School of Ecology, Jan 2022-Present\
+-   Adjunct faculty, Department of Earth & Environmental Sciences, Brooklyn College, The City University of New York, Aug 2021-Present\
+-   Leadership Team, Network for Engineering with Nature (multi-institutional partnership led by ERDC and UGA), Aug 2020-Present\
+-   Affiliate faculty, UGA Center for Integrative Conservation Research, Mar 2015-Present\
+-   Adjunct faculty, UGA Warnell School of Forestry & Natural Resources, Nov 2014-Present
+
+Senior Research Civil Engineer (GS-15 Equivalent) – U.S. Army Corps of Engineers (USACE), Environmental Laboratory (EL), New York, New York, August 2021 - May 2025
+
+-   Led the Water Research Integrating Socio-ecological and Engineered Systems Team with 20+ team members and dozens of partners in executing \$2.4M annual portfolio.\
+-   Established and executed the strategic vision for the team’s research portfolio investigating topics related to integrated water resource management, ecosystem restoration, nature-based solutions, ecological modeling, Engineering with Nature®, urban streams, river engineering, coastal storm risk management, and crisis and disaster management.\
+-   Contributed to dozens of USACE projects across ecosystem restoration, flood risk management, and navigation business lines.\
+-   Served as a formal liaison officer to USACE's New York District.\
+-   Advised large-scale activities such as the National Nature Assessment (led by the White House’s Office of Science and Technology Policy), the Upper Mississippi Navigation and Ecosystem Sustainability Program, and the NY/NJ Harbor and Tributaries Study.
+
+Other USACE Appointments:
+
+-   Research Civil Engineer (GS-13/14 Equivalent), New York, New York, August 2016 - July 2021.\
+-   Research Civil Engineer (GS-12/13 Equivalent), Athens, Georgia, October 2011 - July 2016.\
+-   Research Civil Engineer (GS-11 Equivalent), Athens, Georgia, August 2007 - October 2011.\
+-   Contractor, USACE Environmental Laboratory, Vicksburg, Mississippi, Summer 2005 and 2007.\
+-   Technician, USACE Coastal and Hydraulics Laboratory, Vicksburg, Mississippi, Summer 2001 and 2002.

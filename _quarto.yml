@@ -17,15 +17,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - People.qmd
+      - href: About.qmd
+        text: About
       - href: Publications.qmd
-        text: Pubs
-      - Books.qmd
-      - Courses.qmd
-      - Apps.qmd
-      - Opportunities.qmd
-      - Blog.qmd
-      - Fun.qmd
+        text: Publications
+      - href: Models.qmd
+        text: Models
+      - href: Teaching.qmd
+        text: Teaching
     right:
       - icon: github
         href: https://github.com/skmckay
