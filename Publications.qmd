@@ -1,0 +1,151 @@
+---
+title: "Publications"
+description: "Scientific publications with links to pdfs. If links don't work, email me."
+format:
+  html:
+    page-layout: full
+---
+
+```{css, echo=FALSE}
+.quarto-title {
+    display: none;
+}
+
+.description {
+    display: none;
+}
+
+.publications {
+  text-indent: -10px; 
+  padding-left: 10px;
+}
+
+.publinks {
+  text-indent: 0px; 
+  padding-left: 0px;
+}
+```
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=FALSE)
+```
+
+# **Publications**
+
+Scientific impact derives through dozens of mechanisms ranging from effects on policy and institutions to community benefits to advancing knowledge ([Check out this lovely review!](https://www.jstor.org/stable/48754888)). However, scientific publications remain an important outlet for recording methods, findings, and implications to share among the technical community. The following publications represent the collective effort of over 350 unique co-authors from dozens of institutions across government (50%), academic (38%), non-profit (6%), and private sectors (6%).
+
+**Copyright Notice**: Some of the documents listed below are available for downloading. They are provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be re-posted without the explicit permission of the copyright holder.
+
+## Forthcoming
+
+Stepchinski L., Menichino G.T., Harris A.E., and McKay S.K. A review of stream assessment methods in the United States. In revision at *Journal of the American Water Resources Association*. 
+
+Rack L.E., Freeman M.C., Cowie G., Yang C., McKay S.K., Craig L.S., and Wenger S.J. Quantifying river ecosystem needs: developing environmental flows and metrics for regional water planning in Georgia, USA. Submitted to *PLoS Water*. 
+
+Naslund L.C., Mehring A.S., Tomczyk N.K., Rosemond A.D., McKay S.K., Bernhardt E.S., and Wenger S.J. Consequences of dam removal for carbon storage and emissions. Submitted to *Ecological Applications*. 
+
+Hallemeier J. and McKay S.K. Building capacities for natural and nature-based features through collaboration in Jamaica Bay, New York City. Submitted to *Ecology & Society*. 
+
+Corwin E., Reguero B.G., McKay S.K., Piercy C.D., Pontee N.I., Tomiczek T., Jameson T., Bledsoe B., and Narayan S. Nature-based design standards: Past, present, and future. Submitted to *ASCE One*. 
+
+van Rees C., Jumani S., Chaudhary V., German L., Dekker T., McKay S.K., and Wenger S.  Guideposts and guardrails for biodiversity accounting in the 21st Century. Submitted to *Biological Conservation*. 
+
+Irving K., Mathwin R., Kotalik C., Webb J.A., Walters D.M., Lovett S.E., McKay S.K., Torrens C., Olson J., and El Jack Z. Adaptive modeling to inform environmental management. Submitted to *Environmental Management*. 
+
+Jumani S., McKay S.K., Moberg T., Hoenke K., and Wenger S.J. Estimating the monetary costs of aging dam removals in the United States. Submitted to *Environmental Challenges*. 
+
+McKay S.K., Wiest S.R., McFadden S., and Hawkins J. Riparian model evaluation in Beargrass Creek, Louisville, Kentucky. In press for *ERDC TN-EMRRP*. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+Abera L., Shaw C., and McKay S.K. A user’s guide for the engineering economics toolbox (EngrEcon, Version 1.0). In review for *ERDC TR-EMRRP*. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+McKay S.K., Goss M., Veraldi F., and Mattingly L. Simple Model for Urban Riparian Function (SMURF), Version 1.0.  In review for *ERDC TR-EMRRP*. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+McKay S.K., Hernández-Abrams D.D., Allen S., Miller J., Weppler P., and Swannack T.M.  Developing a multi-ecosystem conceptual model for the New York Bight. In press for *ERDC TN-EMRRP*. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+McKay S.K., Conyngham J.N., Smith D., and Killgore J. Assessing fish passage rates. In press for *ERDC TR-EMRRP*. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+
+## Journal Papers
+
+35\. Ayala-Torres R., Dietterich L.H., Wiest S., and McKay S.K.  2025. Developing predictive models of riparian buffer efficacy with meta-analysis. *Environmental Challenges* 20 (101258), https://doi.org/10.1016/j.envc.2025.101258. [open access](https://www.sciencedirect.com/science/article/pii/S2667010025001775?via%3Dihub)  
+
+34\. Aliu J.O., McKay S.K., Welch-Devine M., and Bledsoe B. 2025. Assessing outcomes of a field-oriented course in natural infrastructure. *International Journal of Sustainability in Higher Education*, https://doi.org/10.1108/IJSHE-07-2024-0484. [pdf](publications/Aliu et al. - 2025 - NatInf Field Class.pdf)  
+
+33\. Abera L., Jumani S., van Rees C.B., Krishnaswarmy J., Seigerman C.K., Nelson D.R., Hallemeier J., Mulatu D.W., Arora R., Vicardo Sesma M.P., Asnake K., Aliu J., Quayee A., Myeong S., Echevarria M., Stern P., Cervantes L., van Breda A., Hettiarachch M., Becerra A.C., Quick A., and McKay S.K.  2024. Integrating nature-based solutions for urban water security in the Global South. *PLoS Water*. https://doi.org/10.1371/journal.pwat.0000372. [open access](https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000372)  
+
+32\. Menichino G.T., Abera L., Rickey T.J., Phillips S., and McKay S.K.  A phased approach to urban stream restoration decision-making in Utoy Creek, Atlanta, Georgia. *Land*, 14(3), 449; https://doi.org/10.3390/land14030449. [open access](https://www.mdpi.com/2073-445X/14/3/449)  
+
+31\. Abera L.E., Surbeck C.Q., and McKay S.K.  2024. Lifecycle cost and benefit analysis for parcel-scale implementation of green stormwater infrastructure. *Green Technologies and Sustainability* (100139) https://doi.org/10.1016/j.grets.2024.100139. [open access](https://www.sciencedirect.com/science/article/pii/S2949736124000666?via%3Dihub)  
+
+30\. Naslund L., Buhr D., Chambers M., McKay S.K., Jumani S., Bledsoe B.P., Rosemond A., and Wenger S.  2024. Facilitating dam removal decisions with multiple objectives.  *River Research and Applications*. https://doi.org/10.1002/rra.4390. [open access](https://onlinelibrary.wiley.com/doi/10.1002/rra.4390)  
+
+29\. Harris A., Porter M., McKay S.K., Mulchandani A., and Stone M. 2024. Hydraulic analysis for assessing environmental flows selection and ecological model formulation. *Ecohydrology*, e2681, https://doi.org/10.1002/eco.2681. [open access](https://onlinelibrary.wiley.com/doi/10.1002/eco.2681)  
+
+28\. van Rees C.B., Hernández-Abrams D.D., Shudtz M., Lammers R., Byers J., Bledsoe B.P., Bilskie M.V., Calabria J., Chambers M., Dolatowski E., Ferreira S., Naslund L., Nelson D.R., Nibbelink N., Suedel B., Tritinger A., Woodson C.B., McKay S.K., and Wenger S.J. 2023. Reimagining infrastructure for a biodiversity future.  *Proceedings of the National Academy of Sciences*, 120 (46), e2214334120, https://doi.org/10.1073/pnas.2214334120. [open access](https://www.pnas.org/doi/10.1073/pnas.2214334120)  
+
+27\. Dietterich L., Ortiz Rosa S., Charbonneau B.R., and McKay S.K.  2024. A systematic review of mechanistic models of riverine macrophyte growth.  *Aquatic Botany*, 190 (103724). https://doi.org/10.1016/j.aquabot.2023.103724. [pdf](publications/Dietterich et al. - 2024 - Macrophyte Model Review.pdf)  
+
+26\. McKay S.K., Wenger S.J., van Rees C.B., Bledsoe B., and Bridges T.S. 2023. Jointly advancing infrastructure and biodiversity conservation.  *Nature Reviews Earth & Environment*. https://doi.org/10.1038/s43017-023-00484-z. [pdf](publications/McKay et al. - 2023 - Biodiversity-Infrastructure.pdf)  
+
+25\. Duda J., Jumani S., Wieferich D.J., Tullos D., McKay S.K., Randle T.J., Jansen A., Bailey S., Jensen B.L., Johnson R.C., Wagner E., Richards K., Wenger S., Walther E.J., and Bountry J.A. 2023. Patterns, drivers, and a predictive model of dam removal cost in the United States.  *Frontiers in Ecology and Evolution*. doi: 10.3389/fevo.2023.1215471. [open access](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2023.1215471/full)  
+
+24\. Jumani S., Andrews L., Grantham T.E., McKay S.K., Duda J., and Howard J. 2023. A decision-support framework for dam removal planning and its application in northern California.  *Environmental Challenges*, 12 100731, https://doi.org/10.1016/j.envc.2023.100731. [open access](https://www.sciencedirect.com/science/article/pii/S2667010023000550?via%3Dihub)  
+
+23\. van Rees C.B., Jumani S., Abera L., Rack L., McKay S.K., and Wenger S.J. 2023. The potential for nature-based solutions to combat the freshwater biodiversity crisis.  *PLoS Water* 2 (6): e0000126. https://doi.org/10.1371/journal.pwat.0000126. [open access](https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000126)  
+
+22\. Seigerman C.K., McKay S.K. #, Basilio R., Biesel S.A., Hallemeier J., Mansur A., Piercy C., Rowan S., Ubiali B., Yeates E., and Nelson D.R. 2023. Operationalizing equity for integrated water resource management. *Journal of the American Water Resources Association*, 59, 281-298. https://onlinelibrary.wiley.com/doi/epdf/10.1111/1752-1688.13086. [open access](https://onlinelibrary.wiley.com/doi/10.1111/1752-1688.13086)  
+
+21\. Baynes A.Y., Freeman M.C., McKay S.K., and Wenger S.J.  2022. Habitat associations of riverine fishes among rocky shoals.  *Ecology of Freshwater Fish*. doi: 10.1111/eff.12690. [open access](https://onlinelibrary.wiley.com/doi/full/10.1111/eff.12690)  
+
+20\. Suedel B., Calabria J., Bilskie M.V., Byers J., Broich K., McKay S.K., Tritinger A.S., Woodson C.B., and Dolatowski E. 2022. Engineering coastal structures to centrally embrace biodiversity. *Journal of Environmental Management*, 323, 116138, https://doi.org/10.1016/j.jenvman.2022.116138. [pdf](publications/Suedel et al. - 2022 - Coastal Biodiversity.pdf)  
+
+19\. Scoggins M., Booth D.B., Fletcher T., Fork M., Gonzalez A., Hale R.L., Hawley R.J., Roy A.H., Bilger E.E., Bond N., Burns M.J., Hopkins K.G., Macneale K.H., Martí E., McKay S.K., Neale M.W., Paul M.J., Rios-Touma B., Russell K.L., Smith R.F., Wagner S. and Wenger S. 2022. Community-powered urban stream restoration: A vision for sustainable and resilient urban ecosystems. *Freshwater Science*, 41 (3), https://www.journals.uchicago.edu/doi/pdf/10.1086/721150. [open access](https://www.journals.uchicago.edu/doi/10.1086/721150)  
+
+18\. Palinkas C., Orton P., Hummel M.A., Nardin W., Sutton-Grier A.E., Harris L., Gray M., Li M., Ball D., Burks-Copes K., Davlasheridze M., de Schipper M., George D.A., Halsing D., Maglio C., Marrone J., McKay S.K., Nutters H., Orff K., Taal M., van Oudenhoven A.P.E., Veatch W., and Williams T. 2022. Innovations in coastline management with natural and nature-based features (NNBF): Lessons learned from three case studies. *Frontiers in Built Environment*, 8, 814180, https://doi.org/10.3389/fbuil.2022.814180. [open access](https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2022.814180/full)  
+
+17\. van Rees C.B., Naslund L., Hernández-Abrams D.D., McKay S.K., Woodson B., Rosemond A., McFall B., Altman S., and Wenger S.J. 2022. A strategic monitoring approach for learning to improve natural infrastructure. *Science of the Total Environment*, 832, 155078, http://dx.doi.org/10.1016/j.scitotenv.2022.155078. [pdf](publications/van Rees et al. - 2022 - Monitoring Framework.pdf)  
+
+16\. Freeman M.C., Bestegen K., Carlisle D., Frimpong E.A., Franssen N.R., Gido K.B., Irwin E., Kanno Y., Luce C., McKay S.K., Mims M.C., Olden J.D., Poff N.L., Propst D.L., Rack L., Roy A., Stowe E.S., Walters A., and Wenger S. 2022. Toward improved prediction of streamflow effects on freshwater fishes. *Fisheries*. http://doi.org/10.1002/fsh.10731. [open access](https://academic.oup.com/fisheries/article/47/7/290/7816565)  
+
+15\. Kress M., Hernández-Abrams D.D., Chambers K.F., and McKay S.K.  2021.  Principles for data management, visualization, and communication to improve disaster response management: Lessons from the Hurricane Maria response mission.  *Journal of Emergency Management*, 19 (8), https://doi.org/10.5055/jem.0658. [pdf](publications/Kress et al. - 2021 - Disaster Data Visualization.pdf)  
+
+14\. Kyrkjebo N., Parris A., Barnes J., Azaroff I., Balk D., Baptista A.I., Braneon C., Calabrese W., Codrington T., Colon J., Gandhi F., George M., Groffman P., Gundlach J. Hogan Carr R., Holt N., Horton R., Jahangir A., Ken-Opurum B., Kowlton K., Leichenki R., Maher N., Marcotullio P., Matte T. McComas K., McKay S.K., McPhearson T., Moss R., Nordenson G., Pawlowski T., Rajkovich N., Reed K.A., Schoeman L., Shapiro J., Spiegel-Feld D., Tschen J., Towers J., and Wagner G.  2021.  Rapid research and assessment on COVID-19 and climate in New York City.  *Journal of Extreme Events*, 8 (2150010), DOI: 10.1142/S234573762150010X. [pdf](publications/Kyrkjebo et al. - 2021 - COVID Rapid Research.pdf) 
+
+13\. Chappell J., German L., McKay S.K., and Pringle C.  2020. Evaluating mismatches between legislation and practice in maintaining environmental flows.  *Water*, 12, 2135; doi:10.3390/w12082135. [open access](https://www.mdpi.com/2073-4441/12/8/2135)   
+
+12\. McKay S.K., Martin E., McIntyre P., Milt A., Moody A., and Neeson T. 2020. A comparison of approaches for prioritizing removal and repair of barriers to stream connectivity.  *River Research and Applications*. https://onlinelibrary.wiley.com/doi/full/10.1002/rra.3684. [open access](https://onlinelibrary.wiley.com/doi/full/10.1002/rra.3684)   
+
+11\. McKay S.K., Theiling C.H., and Dougherty M.P.  2019.  Comparing outcomes from competing models assessing environmental flows in the Minnesota River Basin.  *Ecological Engineering X*, 100014.  doi: 10.1016/j.ecoena.2019.100014. [open access](https://www.sciencedirect.com/science/article/pii/S2590290319300148)  
+
+10\. Chappell J., McKay S.K., Freeman M.C., and Pringle C.  2019.  Long-term (37 years) impacts of low-head dams on freshwater shrimp habitat connectivity in northeastern Puerto Rico.  *River Research and Applications*, 35, 1034-1043, doi: 10.1002/rra.3499. [pdf](publications/Chappell et al. - 2019 - ShrimpConnectivity.pdf)   
+
+9\. Herman B., McKay S.K., Altman S., Richards N.S., Reif M., Piercy C.D., and Swannack T.M.  2019.  Unpacking the black box: Demystifying ecological models through interactive workshops and hands-on learning.  *Frontiers in Environmental Science*, 7, 122.  doi: 10.3389/fenvs.2019.00122. [open access](https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2019.00122/full)  
+
+8\. Christian J., Martin J., McKay S.K., Chappell J., and Pringle C.  2019.  Building a hydrologic foundation for tropical watershed management.  *PLoS ONE*, 14(3), e0213306. https://doi.org/10.1371/journal.pone.0213306. [open access](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213306)    
+
+7\. Shrestha S., Dwivedi P., McKay S.K., and Radcliffe D.  2019.  Assessing the potential impact of rising production of industrial wood pellets on streamflow in the presence of projected changes in land use and climate: A case study from the Oconee River Basin in Georgia, United States.  *Water*, 11(1), 142; https://doi.org/10.3390/w11010142. [open access](https://www.mdpi.com/2073-4441/11/1/142)  
+
+6\. Simms J.E., McKay S.K., McComas R.W., and Fischenich J.C.  2017.  In situ root volume estimation with ground penetrating radar.  *Journal of Environmental and Engineering Geophysics*, 22 (3), 209-221. [pdf](publications/Simms et al. - 2017 - TreeRoots.pdf)    
+
+5\. McKay S.K., Cooper A., Diebel M., Elkins D., Oldford G., Roghair C., and Wieferich D.  2017.  Informing watershed connectivity barrier prioritization decisions: A synthesis.  *River Research and Applications*, 33 (6), 847-862, doi: 10.1002/rra.3021. [pdf](publications/McKay et al. - 2017 - ConnectivitySyn.pdf)
+
+4\. McKay S.K., Freeman M.C., and Covich A.P.  2016.  Application of effective discharge analysis to environmental flow decision making.  *Environmental Management*, 57 (6), 1153-1165.  doi: 10.1007/s00267-016-0684-4. [pdf](publications/McKay et al. - 2016 - Qeff Fish - EnvMan.pdf)  
+
+3\. McKay S.K.  2015.  Quantifying trade-offs associated with hydrologic environmental flow methods.  *Journal of the American Water Resources Association*, 51 (6), 1508-1518.  doi: 10.1111/1752-1688.12328. [pdf](publications/McKay - 2015 - JAWRA - MIDO Hydrology.pdf) 
+
+2\. McKay S.K., Schramski J.R., Conyngham J.N., and Fischenich J.C.  2013.  Assessing upstream fish passage connectivity with network analysis.  *Ecological Applications*, 23 (6), 1396-1409.  doi: 10.1890/12-1564.1. [pdf](publications/McKay et al. - 2013 - FishPassage.pdf) 
+
+1\. Stone M.C., Chen L., McKay S.K., Goreham J., Acharya K., Fischenich C., and Stone A.B.  2013.  Bending of submerged woody riparian vegetation as a function of hydraulic flow conditions.  *River Research and Applications*, 29 (2), 195-205.  doi: 10.1002/rra.1592. [pdf](publications/Stone et al. - 2013 - TreeBending.pdf)
+
+
+## Government Reports
+
+INSERT TEXT.
+
+## Other
+
+INSERT TEXT.
+
+[pdf](publications/title.pdf)
+
