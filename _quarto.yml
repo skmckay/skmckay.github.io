@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs/
+  resources:
+    - "webr-serviceworker.js"
+    - "webr-worker.js"
+    - /publications
+
+website:
+  title: "skmckay"
+  google-analytics: G-HPGGT4QZ8Q
+  site-url: "https://skmckay.github.io/"
+  description: "Website for skmckay's applied research."
+  twitter-card: true
+  open-graph: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - People.qmd
+      - href: Publications.qmd
+        text: Pubs
+      - Books.qmd
+      - Courses.qmd
+      - Apps.qmd
+      - Opportunities.qmd
+      - Blog.qmd
+      - Fun.qmd
+    right:
+      - icon: github
+        href: https://github.com/skmckay
+        aria-label: GitHub
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

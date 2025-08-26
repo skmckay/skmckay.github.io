@@ -4,11 +4,22 @@ author: "S. Kyle McKay"
 output: html_document
 ---
 
-Welcome to the site.
+Welcome to the site. This is a two sentence introduction to me.  
 
 
 ```{r options, include=FALSE}
 #Markdown options
 
 ```
+
+# Pages
+Insert links for bio, research, courses, etc.
+
+
+# Contact
+
+Kyle McKay  
+Environmental Director, Woolpert, Inc.  
+New York, New York  
+kyle.mckay@woolpert.com  
 
