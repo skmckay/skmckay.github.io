@@ -141,11 +141,241 @@ McKay S.K., Conyngham J.N., Smith D., and Killgore J. Assessing fish passage rat
 
 ## Government Reports
 
-INSERT TEXT.
+46\. Curran J.C., McKay S.K., Beagle J.R., Brauer E.J., Haring C.P., Thomas J., Lange J., Duhr D., VanBuecken N., Rose C., Bishop D., and Jensen S. 2025. Engineering practice guide for floodplain benching: A natural infrastructure approach for riverine systems. [ERDC TR-25-15](https://dx.doi.org/10.21079/11681/49845). U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
 
-## Other
+45\. Stepchinski L.M., McKay S.K., and Menichino G.T.  2025. Review of stream assessments for evaluating ecological impacts and benefits. [ERDC/TN EMRRP-EI-7](https://dx.doi.org/10.21079/11681/49710).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
 
-INSERT TEXT.
+44\. Söhngen B., Behrendt K., Ma D., Duro G., Fleischer P., Inoue T., Moiroud C., McKay S.K., Laseromas R., Schmitt K., Verbelen J., Wieggers J., Wolter C., and Zhou J. 2025. Technical-Biological Bank Protections for Inland Waterways. The World Association for Waterborne Transport Infrastructure (PIANC).  
 
-[pdf](publications/title.pdf)
+- Part 1 – Basics of a best practice approach (177 pp. [pdf](publications/Söhngen et al. - 2025 - Part 1.pdf))  
+- Part 2 – Library of measures (372 pp. [pdf](publications/Söhngen et al. - 2025 - Part 2.pdf))  
+- Part 3 – Decision support advice (374 pp. [pdf](publications/Söhngen et al. - 2025 - Part 3.pdf))
 
+43\. McKay S.K., Athanasakes G., Taylor S., Miller W., Wagoner E., and Mattingly L. 2024.  Qualitative Habitat Evaluation Index for Louisville Streams (QHEILS).  [ERDC/TN EMRRP-SR-92](https://dx.doi.org/10.21079/11681/48759).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+42\. Dolatowski E.J., Suedel B.C., Calabria J. Bilskie M.V., Byers J.E., Broich K., McKay S.K., Tritinger A.S., and Woodson C.B. 2024.  Embracing biodiversity on engineered coastal infrastructure through structured decision-making and Engineering with Nature.  [ERDC TR-24-9](https://dx.doi.org/10.21079/11681/48395).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+41\. Wiest S., Hernandez-Abrams D.D., and McKay S.K.  2023.  Review of riparian models for assessing ecological impacts and benefits.  [ERDC/TN EMRRP-ER-26](https://dx.doi.org/10.21079/11681/47706).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+40\. Harris A., Richards N., and McKay S.K.  2023.  Defining levels of effort for ecological models. [ERDC/TN EMRRP-EM-11](https://dx.doi.org/10.21079/11681/47642).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+39\. Echevarria-Doyle W., McKay S.K., and Bailey S.E.  2023.  Sensitivity of sediment transport analyses in dam removal applications. [ERDC TR-23-15](https://dx.doi.org/10.21079/11681/47595).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+38\. Bountry J., Randle T.J., Jansen A., Duda J., Jumani S., Tullos D., McKay S.K., and Bailey S. 2023. Cost estimating guidelines for dam decommissioning alternative.  [Final Report No. ST-2023-21084 and ENV-2023-002](https://data.usbr.gov/catalog/7975/item/128527). Science and Technology Program, Research and Development Office, U.S. Bureau of Reclamation, Denver, Colorado. 
+
+37\. Hernández-Abrams D.D., Pruitt B., Wiest S.R., and McKay S.K.  2023. Stormwater Management Practices, Monitoring, and Maintenance Plan for US Army Garrison at West Point, NY. [ERDC/EL TR-23-2](https://dx.doi.org/10.21079/11681/46933).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+36\. McKay S.K. and Rupp B. 2022. Preliminary Scoping of Watershed Planning: Pamet River, Massachusetts.  [ERDC WQTN-22-01](https://dx.doi.org/10.21079/11681/45566).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+35\. McKay S.K., Richards N., and Swannack T.M. 2022. Ecological model development: Evaluation of system quality.  [ERDC/TN EMRRP-EBA-26](https://dx.doi.org/10.21079/11681/45380).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+34\. McKay S.K. 2022. Is mean discharge meaningless for environmental flow management?  [ERDC/TN EMRRP-SR-91](https://dx.doi.org/10.21079/11681/45381).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+33\. Carrillo C.C., McKay S.K., Altman S., and Swannack T.M.  2022. Ecological model development: Toolkit for interActive Modeling (TAM).  [ERDC TN-EMRRP-SR-90](https://dx.doi.org/10.21079/11681/45101).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+32\. Altman S., Harris R.D., McKay S.K., Kjelland M., and Swannack T.M.  2022.  Oyster reef connectivity: Ecological benefits and associated vulnerabilities.  [ERDC TN-EMRRP-ER-24](https://dx.doi.org/10.21079/11681/45020).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+31\. Hernandez-Abrams D.D., Bailey S.E. and McKay S.K.  2022.  Environmental effects of sediment release from dams: Conceptual model and literature review for the Kansas River Basin.  [ERDC/TN EMRRP-EI-6](https://dx.doi.org/10.21079/11681/44880).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+30\. Saltus C., McKay S.K., and Swannack T.M. 2022.  Geospatial Suitability Indices Toolbox: User’s Guide.  [ERDC/EL SR-22-4](https://dx.doi.org/10.21079/11681/45128).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+29\. de Vries J., Reed D., McKay S.K., Bouma T., Cunniff S.E., Grasmeijer B., Mason P., Nicholson A., Quinn P., and Smith J.M. 2021. Planning and Implementing NNBF Using a Systems Approach. [Chapter 4](https://ewn.erdc.dren.mil/nnbf-guidelines/04-planning-and-implementing-nnbf-using-a-systems-approach/) in [International Guidelines on Natural and Nature-Based Features for Flood Risk Management](https://ewn.erdc.dren.mil/international-guidelines-on-natural-and-nature-based-features-for-flood-risk-management/). Edited by T. S. Bridges, J. K. King, J. D. Simm, M. W. Beck, G. Collins, Q. Lodder, and R. K. Mohan. Vicksburg, MS: U.S. Army Engineer Research and Development Center.
+
+28\. McKay S.K., Richards N., and Swannack T.  2019.  Aligning ecological model development with restoration project planning.  [ERDC EMRRP-SR-89](https://dx.doi.org/10.21079/11681/33863).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+27\. Chambers K.F., Baker A.C., Morgan H.M., and McKay S.K.  2019.  Retrospective sustainability and resilience: Complementary concepts for managing systems.  [ERDC TR-EMRRP-86](https://dx.doi.org/10.21079/11681/32407).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.  
+
+26\. Bhattacharjee N.V., Willis J., Tollner E.W., and McKay S.K.  2019.  Habitat provision under alternative environmental flow regimes.  [ERDC TN-EMRRP-SR-85](https://dx.doi.org/10.21079/11681/32406).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+25\. McKay S.K., Pruitt B.A., Zettle B.A., Hallberg N., Moody V., Annaert A., Ladart M., Hayden M., and McDonald J.  2018.  Proctor Creek Ecological Model (PCEM): Phase 2-Benefits analysis.  [ERDC/EL TR-18-11 Vol 2](https://dx.doi.org/10.21079/11681/29515).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.  
+
+24\. McKay S.K., Pruitt B.A., Zettle B., Hallberg N., Hughes C., Annaert A., Ladart M., and McDonald J.  2018.  Proctor Creek Ecological Model (PCEM): Phase 1-Site screening.  [ERDC/EL TR-18-11 Vol. 1](https://dx.doi.org/10.21079/11681/29514).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.  
+
+23\. McKay S.K., Reif M., Conyngham J.N., and Kohtio D.  2017.  Barrier prioritization in the tributaries of the Hudson-Raritan Estuary.  [ERDC TN-EMRRP-SR-82](https://dx.doi.org/10.21079/11681/25911).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+22\. Crawford B.A., Katz R.A., and McKay S.K.  2017.  Engaging stakeholders in natural resource decision-making.  [ERDC TN-EMRRP-83](https://dx.doi.org/10.21079/11681/23956).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+21\. Pruitt B.A. and McKay S.K.  2017.  A reference condition index for urban streams.  [ERDC TN-EMRRP-SR-81](https://dx.doi.org/10.21079/11681/22821).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+20\. McKay S.K. and Fischenich J.C.  2016.  Development and application of flow duration curves for stream restoration.  [ERDC TN-EMRRP-SR-49](https://hdl.handle.net/11681/4017).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+19\. McKay S.K. and Fischenich J.C.  2016.  Rapid hydraulic analyses for stream restoration.  [ERDC TN-EMRRP-SR-48](https://hdl.handle.net/11681/4038).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+18\. Burks-Copes K., Russo E., Bourne S., Case M., Davis A., Fischenich C., Follum M., Li H., Lin L., Lofton S., McKay S.K., Mlakar P., Morang A., Pranger S., Pickett R., Ratcliff J., Rullán-Rodríguez J., Schultz M., Simms J., Smith E., Smith J., Talbot C., and Winters K.  2014.  Risk quantification for sustaining coastal military installation assets and mission capabilities.  Technical Report. RC-1701. Department of Defense, Strategic Environmental Research and Development Program (SERDP), Alexandria, VA. (available by request only)
+
+17\. McKay S.K. and Fischenich J.C.  2014.  Uncertainty and sensitivity of ecosystem restoration decisions: A case study from coastal Louisiana.  [ERDC TN-EMRRP-EBA-21](https://hdl.handle.net/11681/4059).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+16\. McKay S.K. and Fischenich J.C.  2014.  Case study: Sensitivity analysis of the Barataria Basin Barrier Shoreline Wetland Value Assessment model.  [ERDC TN-EMRRP-EBA-20](https://hdl.handle.net/11681/4065).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+15\. McKay S.K.  2013.  Alternative environmental flow management schemes.  [ERDC TN-EMRRP-SR-46](https://hdl.handle.net/11681/3934).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+14\. Convertino M., Baker K., Lu C., Vogel J.T., McKay S.K., and Linkov I.  2013.  Metric selection for ecosystem restoration.  [ERDC TN-EMRRP-EBA-19](https://hdl.handle.net/11681/4058).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+13\. Fischenich J.C., McKay S.K., Miller S.J., Price D., Pruitt B.A., Skaggs L.L., Suedel B.C., and Tazik D.  2013.  Science-based framework for environmental benefits assessment.  [ERDC EL TR-13-4](https://hdl.handle.net/11681/10101).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+12\. McKay S.K., Wilson C.R., and Piatkowski D.  2012.  Currituck Sound estuary restoration: A case study in objective setting.   [ERDC TN-EMRRP-EBA-17](https://hdl.handle.net/11681/3933).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+11\. McKay S.K., Linkov I., Fischenich J.C., Miller S.J., and Valverde L.J.  2012.  Ecosystem restoration objectives and metrics.  [ERDC TN-EMRRP-EBA-16](https://hdl.handle.net/11681/3930).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+10\. Schultz M.S., McKay S.K., and Hales L.Z.  2012.  The quantification and evolution of resilience in integrated coastal systems.  [ERDC TR-12-7](https://hdl.handle.net/11681/8513).  Flood and Coastal Storm Damage Reduction Program.  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+9\. McKay S.K. and Pruitt B.A.  2012.  An approach for developing regional environmental benefits analysis models.  [ERDC TN-EMRRP-EBA-14](https://hdl.handle.net/11681/4063).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+8\. Corcoran M.K. Peters J.F., Dunbar J.B., Llopis J.L., Tracy F.T., Wibowo J.L., Simms J.E., Kees C.E., McKay S.K., Fischenich J.C., Farthing M.W., Glynn M.E., Robbins B.A., Strange R.C., Schultz M.S., Clarke J.U., Berry T.E., Little C.D., and Lee L.T.  2011.  Initial research into the effects of woody vegetation on levees.  ERDC TR to HQUSACE.  Volumes 1-4.  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.  
+
+- Volume 1. 57 pp ([pdf](publications/Corcoran et al. - 2011 - Vol-I.pdf)).  
+- Volume 2.  498 pp ([pdf](publications/Corcoran et al. - 2011 - Vol-II.pdf)). + Appendix 228 pp ([pdf](publications/Corcoran et al. - 2011 - Vol-II-App.pdf)).  
+- Volume 3.  384 pp ([pdf](publications/Corcoran et al. - 2011 - Vol-III.pdf)).  
+- Volume 4.  57 pp ([pdf](publications/Corcoran et al. - 2011 - Vol-IV.pdf)).
+
+7\. Anderson M., Smith J.M., and McKay S.K.  2011.  Wave dissipation by vegetation.  [ERDC/CHL CHETN-I-82](https://hdl.handle.net/11681/1896).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+6\. McKay S.K. and Fischenich J.C.  2011.  Robust prediction of hydraulic roughness.  [ERDC/CHL CHETN-VII-11](https://hdl.handle.net/11681/2034).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+5\. Fischenich J.C. and McKay S.K.  2011.  Hydrologic analyses for stream restoration design.  [ERDC TN-EMRRP-EBA-08](https://hdl.handle.net/11681/4042).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+4\. Suedel B.C., Burks-Copes K., Kim J., and McKay S.K.  2011.  Using multi-criteria decision analysis to support ecosystem restoration planning.  [ERDC TN-EMRRP-EBA-07](https://hdl.handle.net/11681/4048).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+3\. Conyngham J., McKay S.K., Fischenich C., and Artho D.  2011.  Environmental benefits analysis of fish passage on the Truckee River, Nevada: A case study of multi-action-dependent benefits quantification.  [ERDC TN-EMRRP-EBA-06](https://hdl.handle.net/11681/4049).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+2\. McKay S.K., Pruitt B.A., Harberg M., Covich A.P., Kenney M.A., and Fischenich J.C.  2010.  Metric development and application for environmental benefits analysis.  [ERDC TN-EMRRP-EBA-04](https://hdl.handle.net/11681/4047).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+1\. McKay S.K.  2009.  Reducing spreadsheet errors.  [ERDC TN-EMRRP-EBA-03](https://hdl.handle.net/11681/4062).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+## Miscellaneous Publications
+
+This section includes book chapters, full-length conference proceeding papers, magazines, popular press, and model vignettes. 
+
+30\. McKay S.K., Hernández-Abrams D.D., and Cushway K.C. 2024. Package ‘ecorest’. [CRAN Reference Manual](https://cran.r-project.org/web/packages/ecorest/).
+
+29\. Abera L. and McKay S.K. 2024. Package ‘EngrEcon’. [CRAN Reference Manual](https://cran.r-project.org/web/packages/EngrEcon/index.html).
+
+28\. Abera L. and McKay S.K. 2023. Life cycle cost analysis for stream restoration. ASCE Inspire, American Society of Civil Engineers, November 2023, Arlington, Virginia. https://doi.org/10.1061/9780784485163.067. [pdf](publications/Abera and McKay - 2023 - Stream Restoration Life Cycle Cost.pdf) 
+
+27\. Suedel B., Tritinger A., McKay S.K., Calabria J., Bilskie M., Byers J., Woodson B., Broich K., Dolatowski E., and Hair E.  2023. Nature-based solutions for biodiversity. Network for Engineering with Nature. [pdf](https://issuu.com/rsvpstudio/docs/2307-newn-biodiversity-handout-14?fr=xKAE9_zU1NQ). 
+
+26\. Harris A., AuBuchon J., Porter M., and McKay S.K.  2023.  Retrospective: Transitioning river geomorphology and its impact on habitat management.  SEDHYD 2023.  St. Louis, Missouri. [open access](https://www.sedhyd.org/2023Program/1/80.pdf).  
+
+25\. Echevarria-Doyle W., McKay S.K., and Bailey S.E.  2023.  Sensitivity analysis of sediment transport analysis in dam removal applications.  SEDHYD 2023.  St. Louis, Missouri.  [open access](https://www.sedhyd.org/2023Program/1/307.pdf). 
+
+24\. Bountry J., Duda J., Tullos D., Randle T., Jansen A., Jumani S., McKay S.K., and Bailey S.  2023.  Dam removal cost databases and drivers.  SEDHYD 2023.  St. Louis, Missouri.  [open access](https://www.sedhyd.org/2023Program/1/320.pdf). 
+
+23\. Shaw C. and McKay S.K. 2023. Package ‘HYDROCAL’. [CRAN Reference Manual](https://cran.r-project.org/web/packages/HYDROCAL/index.html).
+
+22\. Dietterich L.H., Ortiz Rosa S., McKay S.K., and Swannack T.M.  2022.  Toward improved models of riverine macrophytes.  World Environmental & Water Resources Congress, American Society of Civil Engineers, Atlanta, Georgia. https://doi.org/10.1061/9780784484258.042. [pdf](publications/Dietterich et al. - 2022 - EWRI - Macrophytes.pdf)
+
+21\. McKay S.K.  2022.  Using social equity to inform urban stream management.  World Environmental & Water Resources Congress, American Society of Civil Engineers, Atlanta, Georgia. https://doi.org/10.1061/9780784484258.069. [pdf](publications/McKay - 2022 - EWRI - Equity.pdf)
+
+20\. McKay S.K. and Hernández-Abrams D.D. 2020. Package ‘ecorest’. [CRAN Reference Manual](https://cran.r-project.org/web/packages/ecorest/ecorest.pdf).
+
+19\. McKay S.K., Lackey T., Bailey S., Echevarria-Doyle W., and Hayter E.  2019.  Tools for evaluating sediment impacts from dam removal – qualitative guidance.  SEDHYD 2019.  Reno, Nevada. [pdf](publications/McKay et al. - 2019 - DamRemovalTools - SedHyd.pdf)
+
+18\. McKay S.K. 2019. Visualization as a tool for ecological analysis. Encyclopedia of Ecology, 2nd Ed., Volume 2, pp. 213-220.  Eds. S. Jorgensen and B. Fath.  doi:10.1016/B978-0-12-409548-9.10566-4. [pdf](publications/McKay - 2019 - DataVisualization.pdf) 
+
+17\. McKay S.K.  2015.  Help protect Athens’ water resources.  [Letter to the Editor](https://www.onlineathens.com/story/opinion/2015/07/01/mckay-help-protect-athens-water-resources/15490201007/), Athens Banner-Herald, July 1, 2015.    
+
+16\. McKay S.K.  2015.  Upper Oconee Watershed Network.  [Opinion-Editorial](https://www.onlineathens.com/story/opinion/2015/05/28/mckay-upper-oconee-watershed-network/15493071007/), Athens Banner-Herald, May 28, 2015.    
+
+15\. Manning D., Bumpers P., Brown R., Giri B., and McKay S.K.  2015.  Long-term citizen-led monitoring detects biological responses to an acute toxicity event in Trail Creek, Athens, GA, USA.  Georgia Water Resources Conference, Athens, Georgia. [open access](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/6/3466/files/2023/06/3.1.3manning.pdf)
+
+14\. McKay S.K.  2014.  Informing flow management decisions in the Middle Oconee River.  Doctoral Dissertation.  Odum School of Ecology, University of Georgia, Athens, Georgia. [pdf](publications/McKay - 2014 - Dissertation.pdf)
+
+13\. McKay S.K., Rushmore J.L., Buhnerkempe M.G., Craft M., Covich A.P., Gillaranz L.J., and Lau M.K.  2013.  Ignite ESA Session 13: Ecological analysis using network science and graph theory.  Bulletin of the Ecological Society of America, Vol. 94 (4), 398-400. [open access](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1890/0012-9623-94.4.398)
+
+12\. McKay S.K., Batt L., Bringolf R.B., Davie S., Elkins D.A., and Hoenke K.  2013.  Fish passage in Georgia: Planning for the future.  Georgia Water Resources Conference, Athens, Georgia. [open access](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/6/3466/files/2023/06/3.2.1_McKay.pdf) 
+
+11\. McKay S.K. and Rasmussen T.C.  2013.  Declaring drought for effective water management.  Georgia Water Resources Conference, Athens, Georgia. [open access](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/6/3466/files/2023/06/2.4.1_McKay.pdf)  
+
+10\. Pruitt B.A. and McKay S.K.  2013.  Integration of stream flow duration with hydraulic geometry in the Southern Piedmont.  Georgia Water Resources Conference, Athens, Georgia. [open access](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/6/3466/files/2023/06/2.5.3_Pruitt.pdf)
+
+9\. McKay S.K. and Kellett K.  2012.  2012 Graduate Student Symposium.  EcoVoice.  University of Georgia, Odum School of Ecology Newsletter, Vol. 3 (1). [pdf](publications/McKay and Kellet - 2012 - EcoVoice.pdf)
+
+8\. McKay S.K. and Rasmussen T.C.  2012.  Pay attention to drought measurement data.  [Opinion-Editorial](https://www.onlineathens.com/story/opinion/2012/04/11/mckay-rasmussen-maintain-awareness-drought/15613879007/), Athens Banner-Herald, April 12, 2012.
+
+7\. Katz R.A. and McKay S.K.  2011.  Evaluating effects of pump-storage water withdrawals using an individual-based metapopulation model of a benthic fish species.  Georgia Water Resources Conference, Athens, Georgia. [open access](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/6/3466/files/2023/06/4.6.4Katz.pdf)
+
+6\. McKay S.K., Pruitt B.A., Anderson C.J., Curran J., del Orca Archoa A., Freeman M.C., Rashleigh B., and Trawick E.  2011.  Constructing a conceptual model linking drivers and ecosystem services in Piedmont streams.  Georgia Water Resources Conference, Athens, Georgia. [open access](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/6/3466/files/2023/06/4.4.1McKay.pdf)
+
+5\. Goreham J., McKay S.K., Stone M., Acharya K., and Fischenich J.C.  2009.  Riparian vegetation bending and washout in the Southwestern U.S.  33rd IAHR Congress.  Vancouver, Canada.  pp. 6625-6632. [pdf](publications/Goreham et al. - 2009 - IAHR - Washout.pdf)
+
+4\. McKay S.K., Pruitt B.A., and Covich A.P.  2009.  Monitoring ecosystem integrity.  Georgia Water Resources Conference, Athens, Georgia. [pdf](publications/McKay et al. - 2009 - GA Water - Metrics.pdf)
+
+3\. McKay S.K.  2009.  Reducing spreadsheet errors.  Planning Ahead.  U.S. Army Corps of Engineers Planning Community of Practice Newsletter, Vol. 12 (10), November 2009. [pdf](publications/McKay - 2009 - Spreadsheet - PlanningAhead.pdf)
+
+2\. McKay S.K.  2007.  Lateral prediction of depth-averaged velocity in a compound channel.  Masters Thesis.  Environmental Hydrology and Hydraulic Engineering.  College of Engineering.  University of Illinois Urbana-Champaign. [pdf](publications/McKay - 2007 - MS Thesis.pdf)
+
+1\. Parker G., Sequeiros O., and River Morphodynamics Class Spring, 2006.  2006.  Large Scale River Morphodynamics: Application to the Mississippi Delta.  Proceedings River Flow 2006 Conference, Lisbon, Portugal, September 6-8, 2006, Balkema. [pdf](publications/Parker et al. - 2006 - WaxLake.pdf)
+
+
+## Unpublished, Internal Reports
+
+
+35\. McKay S.K. and Casper A. 2025. Purpose and procedures for the Science Panel of the Navigation and Ecosystem Sustainability Program. Letter Report. USACE Rock Island District. 
+
+34\. Mason D.J., Miller R.K., Mikulska A.B., Lakshman A.S., Lu H.H., Ross K.C.S., and 55 contributions (including S.K. McKay). 2024. Nature-based solutions: Evidence for hazard risk reduction and ecosystem services – Scaling up implementation and accelerating learning. White House, Office of Science and Technology Policy, Washington, D.C.
+
+33\. McKay S.K., Ayala-Torres R., Piercy C., and Berkowitz J. 2024. Choctawhatchee Bay Ecosystem Restoration Feasibility Study: Planning Charrette Report. Letter Report. USACE Mobile (CESAM).  
+
+32\. Smith, Ricky, Menichino, Burns, Phillips, Abera, Mickal, Dodds, McKay, et al. 2024. Utoy Creek ecosystem restoration project. Draft Feasibility Report and Environmental Assessment. USACE Mobile (CESAM).  (S.K. McKay led Appendix D on socio-economic analysis and decision modeling and contributed to Appendix C on ecological modeling).  
+
+31\. Curran J., Martello M., Steketee J., Bazzini D., Morgan M., Chauncy A., Ivarone I., Achy B., Billings M., Rodriguez D. McKay S.K., and Clark R. 2024. Hudson-Raritan Estuary, Bronx Zoo & Dam and Stone Mill Dam, Ecosystem Restoration Project. Engineering Documentation Report. USACE New York District (CENAN).  (S.K. McKay led Appendix D).  
+
+30\. Menichino G., Abera L., and McKay S.K.  2023.  Site Screening to Inform Utoy Creek Stream Restoration.  Interim Report.  USACE Mobile District.  August 2023.  
+
+29\. Smith J.B., Hampson R., Allen S., and other contributors including S.K. McKay. 2023. New Jersey Back Bays Focus Area Feasibility Study (NJBB).  Supplemental environmental impact statement and feasibility report.  USACE Philadelphia District (CENAP).  April 2023. (S.K. McKay led Appendix).  
+
+28\. Tommaso D., Alkemeyer C., Wisemiller B., and other contributors including S.K. McKay. 2022. NY & NJ Harbor & Tributaries Focus Area Feasibility Study (HATS).  Draft feasibility report and environmental assessment.  USACE New York District (CENAN).  September 2022. (S.K. McKay led Appendix A11).  
+
+27\. McKay S.K., Mahan V., Dougherty M.P., Swannack T.M., Hall C., Saltus C.L., Reif M.K., and Allen S.  2022.  New York Bight Ecological Model (NYBEM), Version 1.0.0.  ERDC TR-EMRRP (and ebook).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi. 
+
+26\. Mattingly L., Russell D., Moulder N., Vogler D., Mattingly S., Thames B., and McKay S.K.  2021.  Three Forks of Beargrass Creek Ecosystem Restoration Study.  Final feasibility report and environmental assessment.  USACE Louisville District (CELRL).  May 2022.  
+
+25\.McKay S.K.  2021.  Conceptual model facilitation guide.  Letter report.  USACE Tribal Nations Technical Center of Expertise (TNTCX).  Rivercane Restoration Workshop. October 2021.
+
+24\. McKay S.K.  2021.  Review of Ohio Stream Assessment Tools.  Letter report.  USACE Huntington District (CELRH).  Wetlands Regulatory Assistance Program.  September 2021.  
+
+23\. Baron L., Dehner M., Voisine M., Morgan M., Zhang C., Weppler P., and McKay S.K.  2020.  Hudson River Habitat Restoration Feasibility Study.  Final feasibility report and environmental assessment.  USACE New York District (CENAN).  May 2020.  (McKay is primary author of Appendix F on Cost-effectiveness and incremental cost analysis) 
+
+22\. Baron L., Kohtio D., Morgan M., Jansson A., Wooley G., Zhang C., Weppler P., and McKay S.K.  2020.  Hudson-Raritan Estuary (HRE) Ecosystem Restoration Feasibility Study.  Final feasibility report and environmental assessment.  USACE New York District (CENAN).  May 2020.  (McKay is primary author of Appendix I on Cost-effectiveness and incremental cost analysis)
+ 
+21\. U.S. Army Corps of Engineers. 2020. Minnesota River Basin Interagency Study.  Watershed Study.  USACE St. Paul District (CEMVP).  February 2020.  (McKay is primary author of Appendix E on environmental flows)
+
+20\. U.S. Army Corps of Engineers.  2018.  USACE sustainability: Definitions and concepts guide.  EP 1100-1-3.  Headquarters, Washington, D.C. (Contributions by Christian Manalo, Heather Morgan, S. Kyle McKay, Kendall Zaborowski, Todd Bridges, Brian Harper, Katherine Touzinsky, Anne Clark Baker, Matthew Bates)
+
+19\. Baron L., Tomasso D., Kohtio D., Weppler P., and McKay S.K.  2018.  Report summary: Hudson-Raritan Estuary (HRE), New York and New Jersey Ecosystem Restoration Feasibility Study.  Report Summary for the Agency Decision Milestone.  USACE New York District (CENAN).  August 2018.  
+
+18\. McKay S.K.  2018.  Watershed-Scale Upstream Connectivity Toolkit (WUCT).  Model Certification Submission.  Ecosystem Restoration Planning Center of Expertise (Eco-PCX).  U.S. Army Corps of Engineers.  July 2018.  
+
+17\. Miller S.J. and McKay S.K.  2018.  Monitoring and adaptive management plan for the Proctor Creek ecosystem restoration study.  ERDC Letter Report.  Water Operations Technical Support (WOTS) Program.  USACE Mobile District (CESAM).  February 2018.  
+
+16\. McKay S.K.  2017.  Hudson River Habitat Restoration: Environmental Benefits Analysis Recommendations.  ERDC Letter Report.  Water Operations Technical Support (WOTS) Program.  USACE New York District (CENAN).  May 2017.  
+
+15\. McKay S.K., Morgan H.M., Zaborowski N.K., Harper B.K., Baker A.C., Touzinsky K.F., Bates M.E., and Bridges T.S.  2016.  Foundations for Civil Works sustainability (Preliminary draft).  Letter Report to USACE Headquarters.
+
+14\. McKay S.K., Morgan H.M., Bates M.E., Burke M.E., Zaborowski N.K., Baker A.C., Harper B.K., Touzinsky K.F., and Bridges T.S.  2016.  An approach for developing a sustainability strategic plan.  Letter Report to USACE Headquarters.
+
+13\. Prebyl T.J. and McKay S.K.  2016.  Dam Removal Prioritization in the Duck River Watershed.  Letter Report.  USACE Nashville District (LRN).
+
+12\. McKay S.K. and Battles J.J.  2016.  Assessment of the USACE Ecosystem Restoration Budget Criteria for Hydrologic Connectivity.  Letter Report to USACE Headquarters.
+
+11\. McKay S.K., Simms J., Stephens I.J., McComas R.G.W., and Fischenich J.C.  2013.  Interaction of woody vegetation and flood risk management infrastructure: Missoula, Montana.  Trip Report to ERDC-GSL.
+
+10\. Komlos S.B, Chafa D., Harper B., Johnson Z., McKay S.K., Mecray E., Plumley M., Sheen J., Smith J., and Vaddey S.  2012.  Guiding Questions to Incorporate Climate Change in Ecosystem Restoration Planning.  EMRRP White Paper.  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+9\. Piatkowski D., Wilson C.R., and McKay S.K.  2010.  Currituck Sound ecosystem restoration feasibility study.  Read-ahead document for September 2010 public meeting.  USACE Wilmington.
+
+8\. Schultz M.T., McKay S.K., McCormick J., and Bridges T.S.  2010.  The evolution of resilience in integrated coastal systems.  Workshop read-ahead.  Flood and Coastal Systems Research and Development Program.  July 2010.
+
+7\. Schultz M.T., McKay S.K., McCormick J., and Bridges T.S.  2010.  A brief review of the literature on the definition and quantification of resilience.  Literature review.  Flood and Coastal Systems Research and Development Program.  May 2010.
+
+6\. Conyngham J.N., McKay S.K., Fischenich J.C., and Skaggs L.L.  2009.  Truckee River Fish Passage Restoration: Environmental Benefits, Cost-Effectiveness, and Incremental Cost Analyses.  Appendix to CESPK Feasibility Study Report.  USACE Sacramento District (CESPK).  June 2009. 
+
+5\. Fischer R.A. and McKay S.K..  2009.  Mamaroneck River Environmental Assessment.  ERDC Letter Report.  Water Operations Technical Support (WOTS) Program.  USACE New York District (CENAN).  July 2009.  
+
+4\. Fischer R.A., McKay S.K., et al.  2009.  Integrating Ecological and Engineering Design.  White Paper, Ecosystem Restoration Focus Area, Environmental Laboratory, Vicksburg, Mississippi.  March 2009. 
+
+3\. McKay S.K. and Fischenich J.C.  2008.  Ecohydraulic Marsh Accretion Model: User’s Guide.  Letter Report.  USACE New Orleans District (CEMVN).  April 2009.  
+
+2\. McKay S.K., Fischenich J.C., Smith S.J., and Paille R.  2008.  Quantifying benefits of freshwater flow diversion to coastal marshes: Theory and Applications.  Louisiana Coastal Protection and Restoration (LACPR) Program.  Report to the National Academy of Science.  Attachment in Coastal Restoration Appendix.
+
+1\. McKay S.K.  2008.  Protection of Corydon Cemetery from Bank Loss at Allegheny River Reservoir.  ERDC Letter Report.  Water Operations Technical Support (WOTS) Program.  USACE Pittsburgh District (CELRP).  February 2008.  
