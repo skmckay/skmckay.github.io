@@ -258,9 +258,11 @@ knitr::include_graphics("images/NNBF_WWF_Virtual.jpg")
 ::: {.column width="60%"}
 **PIANC Smart Rivers 2025: Sustainable practices for large river management**
 
-Co-developed with Dr. Burton Suedel, Calvin Creech, Dr. Bernhard Sohngren, and Jos Wieggers. 
+[Course website](https://skmckay.github.io/SmartRivers2025)
 
-Sustainable development of infrastructure systems is an emerging priority worldwide, and nature-based solutions are increasingly applied in navigable waterways to meet infrastructure needs as well as produce social and environmental benefits. This short course will cover how science-based guidance can inform decisions about waterborne infrastructure projects for two common areas of practice: sustainable sediment management and technical-biological bank protection. Participants will learn about the broader context for sustainable waterway management as well as technical guidance for executing these two types of nature-based solutions.
+Co-developed with Drs. Burton Suedel, Calvin Creech, Bernhard Sohngren, and Jos Wieggers. 
+
+Sustainable development of infrastructure systems is an emerging priority worldwide, and nature-based solutions are increasingly applied in navigable waterways to meet infrastructure needs as well as produce social and environmental benefits. This short course covers how science-based guidance can inform decisions about waterborne infrastructure projects for two common areas of practice: sustainable sediment management and technical-biological bank protection. Participants learn about the broader context for sustainable waterway management as well as technical guidance for executing these two types of nature-based solutions.
 :::
 
 ::: {.column width="40%"}
