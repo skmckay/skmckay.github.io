@@ -54,6 +54,9 @@ knitr::include_graphics("images/Campus_Stormwater_Calabria_2023-10-20.jpg")
 :::
 :::
 
+
+::: columns
+::: {.column width="60%"}
 **Environmental River Mechanics**
 
 Developed by [Dr. Brian Bledsoe](https://bledsoe.engr.uga.edu/). Co-taught by Bledsoe and McKay in Fall 2020 and Fall 2021.
@@ -61,6 +64,15 @@ Developed by [Dr. Brian Bledsoe](https://bledsoe.engr.uga.edu/). Co-taught by Bl
 CVLE 8110 (3 credit hours), College of Engineering, University of Georgia. 
 
 Overview of fundamental concepts related to river hydraulics, sediment transport, fluvial geomorphology, and river response to human influences, with emphasis on restoration design and environmental aspects. Technical communication across the fields of river hydraulics / mechanics, fluvial geomorphology, water quality management, and aquatic ecology is emphasized. Survey of water quality and quantity issues related to the management of rivers, streams, riparian areas, floodplains, watersheds, and aquatic ecosystems.  Students are introduced to standard hydraulic and sediment transport models. 
+:::
+
+::: {.column width="40%"}
+```{r}
+knitr::include_graphics("images/UtoyCreek.jpg")
+```
+:::
+:::
+
 
 
 ::: columns
@@ -106,12 +118,14 @@ This class focuses on analysis of built, natural, and social systems for urban w
 
 ::: {.column width="40%"}
 ```{r}
-knitr::include_graphics("images/BrooklynCollege_UrbanWaters_2021.jpg")
+knitr::include_graphics("images/BrooklynCollege_UrbanWaters_2023_Park.jpg")
 ```
 :::
 :::
 
 
+::: columns
+::: {.column width="60%"}
 **Nature-Based Solutions Seminar**  
 
 Co-developed and taught by Dr. Kyle McKay and [Dr. Brett Branco](https://srijb.org/home/staff/) in Fall 2024.
@@ -124,7 +138,14 @@ This seminar-based course will explore the growing use of nature-based solutions
 - Understand the role of both ecological and built systems in cities.  
 - Critically analyze the complex interactions between natural systems and built infrastructure within the context of water resource management.  
 - Foster an interdisciplinary approach (and dialog) by integrating knowledge from diverse fields to enhance natural infrastructure practices.
+:::
 
+::: {.column width="40%"}
+```{r}
+knitr::include_graphics("images/BrooklynCollege_UrbanWaters_2021.jpg")
+```
+:::
+:::
 
 ------------------------------------------------------------------------
 
@@ -233,13 +254,25 @@ knitr::include_graphics("images/NNBF_WWF_Virtual.jpg")
 
 ------------------------------------------------------------------------
 
+::: columns
+::: {.column width="60%"}
 **PIANC Smart Rivers 2025: Sustainable practices for large river management**
 
 Co-developed with Dr. Burton Suedel, Calvin Creech, Dr. Bernhard Sohngren, and Jos Wieggers. 
 
 Sustainable development of infrastructure systems is an emerging priority worldwide, and nature-based solutions are increasingly applied in navigable waterways to meet infrastructure needs as well as produce social and environmental benefits. This short course will cover how science-based guidance can inform decisions about waterborne infrastructure projects for two common areas of practice: sustainable sediment management and technical-biological bank protection. Participants will learn about the broader context for sustainable waterway management as well as technical guidance for executing these two types of nature-based solutions.
+:::
+
+::: {.column width="40%"}
+```{r}
+knitr::include_graphics("images/SmartRivers2025.jpg")
+```
+:::
+:::
 
 
+::: columns
+::: {.column width="60%"}
 **Freshwater Science 2023: Tools and Techniques to Inform Dam Removal Decisions**
 
 Co-developed with Dr. Suman Jumani.
@@ -250,8 +283,18 @@ Aquatic barriers such as dams, weirs, levees, and culverts provide many societal
 - Describe techniques for quantitatively assessing two common constraints with these projects (sediment release and cost estimation).  
 - Demonstrate a suite of methods for prioritizing barrier removal at the watershed scale based on multiple criteria and objectives.  
 - Provide users with lessons learned from dam removal case studies.
+:::
+
+::: {.column width="40%"}
+```{r}
+knitr::include_graphics("images/freshwater_science_logo.jpg")
+```
+:::
+:::
 
 
+::: columns
+::: {.column width="60%"}
 **SEDHYD 2023: Natural Infrastructure Design for Riverine Environments**
 
 Co-developed with Dr. Aubrey Harris, Dr. Garrett Menichino, Eddie Brauer.
@@ -262,8 +305,18 @@ Natural infrastructure generally involves a family of infrastructure planning an
 - Familiarize participants with recent guidelines on natural infrastructure including the USACE International Guidelines on Natural and Nature-based Features.  
 - Expose participants to riverine case studies to improve technical understanding of natural infrastructure projects, processes, and benefits.  
 - Build awareness of opportunities for expanding acceptance and deployment of natural infrastructure.
+:::
+
+::: {.column width="40%"}
+```{r}
+knitr::include_graphics("images/SEDHYD_2023_Brauer.jpg")
+```
+:::
+:::
 
 
+::: columns
+::: {.column width="60%"}
 **EWRI 2022: Natural and Nature-based Infrastructure Systems**
 
 Developed and taught by Dr. Kyle McKay, Dr. Brian Bledsoe, Dr. Joanna Curran, Dr. Candice Piercy, Dr. Tess Wynn Thompson, and Dr. Tori Johnson in Summer 2022.
@@ -276,13 +329,24 @@ This workshop will advance natural infrastructure and Engineering With Nature® 
 - Familiarize participants with recent guidelines on natural infrastructure including the USACE International Guidelines on Natural and Nature-based Features.  
 - Improve understanding of how conventional infrastructure and natural infrastructure can be integrated to do the right project, and do the project right.  
 - Build awareness of opportunities for expanding acceptance and deployment of natural infrastructure.
+:::
 
+::: {.column width="40%"}
+```{r}
+knitr::include_graphics("images/NEWN_Logo.jpg")
+```
+:::
+:::
 
 ------------------------------------------------------------------------
 
 ## Self-Directed Learning
 
 ------------------------------------------------------------------------
+
+
+::: columns
+::: {.column width="60%"}
 
 **Using R for ecological modeling in USACE**
 
@@ -291,6 +355,15 @@ Co-developed with Dr. Ed Stowe for self-directed learning.
 [Course website](https://usace-wrises.github.io/USACE.EcoMod.Training/) with modules for learning and applying R to USACE ecological modeling challenges.
 
 Ecological modeling within USACE is historically a spreadsheet-based activity featuring deterministic habitat models. However, the ecological modeling capacity of USACE biologists can be greatly improved by incorporating modern data science practices, especially the uptake of R, a programming language that is used in the majority of ecological research being conducted today. R promotes research that is well-documented, reproducible, interdisciplinary, and extensible. R also works on all kinds of data, produces high-quality graphics, has a broad supportive network of users, and is easier to learn than ever before. This training series focuses on teaching USACE biologists and other practitioners how to use R for ecological modeling.
+:::
+
+::: {.column width="40%"}
+```{r}
+knitr::include_graphics("images/Rlogo.jpg")
+```
+:::
+:::
+
 
 
 ::: columns
