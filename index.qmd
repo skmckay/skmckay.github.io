@@ -38,9 +38,9 @@ p {
 
 ```
 
-## Welcome! 
+## Welcome!
 
-My name is Kyle McKay, and I am an ecological engineer working on integrated water resources management. My work blends expertise from hydraulic and hydrologic engineering with freshwater ecology to create interdisciplinary solutions to water resources and ecosystem conservation challenges. I usually find myself working on nature-based solutions, ecosystem restoration, water management, and complex socio-ecological systems, and I typically use diverse methods ranging from numerical modeling and field data collection to decision support and group facilitation. This website links to some of the methods, tools, publications, and other outcomes of this work. Although it is presented on my personal site, this work was developed collaboratively with hundreds of partners, and their contributions, insights, and expertise are gratefully acknowledged. However, this site does not represent endorsement by any of these colleagues or the organizations employing me. 
+My name is Kyle McKay, and I am an ecological engineer working on integrated water resources management. My work blends expertise from hydraulic and hydrologic engineering with freshwater ecology to create interdisciplinary solutions to water resources and ecosystem conservation challenges. I usually find myself working on nature-based solutions, ecosystem restoration, water management, and complex socio-ecological systems, and I typically use diverse methods ranging from numerical modeling and field data collection to decision support and group facilitation. This website links to some of the methods, tools, publications, and other outcomes of this work. Although it is presented on my personal site, this work was developed collaboratively with hundreds of partners, and their contributions, insights, and expertise are gratefully acknowledged. However, this site does not represent endorsement by any of these colleagues or the organizations employing me.
 
 ```{r}
 #| echo: FALSE
@@ -48,9 +48,9 @@ My name is Kyle McKay, and I am an ecological engineer working on integrated wat
 knitr::include_graphics('images/MiddleOconee.jpg')
 ```
 
-## Contact 
+## Contact
 
-Kyle McKay, Ph.D., P.E.  
-Environmental Director, Woolpert, Inc.  
-New York, New York  
+Kyle McKay, Ph.D., P.E.\
+Environmental Director, Woolpert, Inc.\
+New York, New York\
 email: [kyle.mckay\@woolpert.com](mailto:kyle.mckay@woolpert.com){.email}

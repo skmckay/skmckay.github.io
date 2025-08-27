@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.33">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="description" content="R packages, Shiny apps, and other open-software projects.">
+
+<title>Models – Kyle McKay Homepage</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-dfb324f25d9b1687192fa8be62ac8f9c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HPGGT4QZ8Q"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-HPGGT4QZ8Q', { 'anonymize_ip': true});
+</script>
+
+
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Models – Kyle McKay Homepage">
+<meta property="og:description" content="R packages, Shiny apps, and other open-software projects.">
+<meta property="og:site_name" content="Kyle McKay Homepage">
+<meta name="twitter:title" content="Models – Kyle McKay Homepage">
+<meta name="twitter:description" content="R packages, Shiny apps, and other open-software projects.">
+<meta name="twitter:card" content="summary">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Kyle McKay Homepage</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./About.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Publications.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./Models.html" aria-current="page"> 
+<span class="menu-text">Models</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Teaching.qmd"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/skmckay"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#models-are-cool" id="toc-models-are-cool" class="nav-link active" data-scroll-target="#models-are-cool">Models are cool!</a>
+  <ul class="collapse">
+  <li><a href="#ecological-modeling-and-assessment" id="toc-ecological-modeling-and-assessment" class="nav-link" data-scroll-target="#ecological-modeling-and-assessment">Ecological Modeling and Assessment</a></li>
+  <li><a href="#hydraulic-and-hydrologic-modeling" id="toc-hydraulic-and-hydrologic-modeling" class="nav-link" data-scroll-target="#hydraulic-and-hydrologic-modeling">Hydraulic and Hydrologic Modeling</a></li>
+  <li><a href="#decision-support-tools" id="toc-decision-support-tools" class="nav-link" data-scroll-target="#decision-support-tools">Decision Support Tools</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content column-page-left" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Models</h1>
+</div>
+
+<div>
+  <div class="description">
+    R packages, Shiny apps, and other open-software projects.
+  </div>
+</div>
+
+
+<div class="quarto-title-meta column-page-left">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="cell">
+<style type="text/css">
+.quarto-title {
+    display: none;
+  }
+
+.description {
+    display: none;
+  }
+</style>
+</div>
+<section id="models-are-cool" class="level1">
+<h1>Models are cool!</h1>
+<p>This page catalogs a variety of numerical modeling tools for conducting ecological, engineering, and decision support analyses. The tools appear in multiple formats (e.g., R packages, Shiny Apps, spreadsheets, etc.). Each model is briefly described along with links to more details resources (i.e., documents, repos, packages, web apps).</p>
+<p>Models were developed with many partners and collaborators, and model documentation includes points of contact for each tool. In particular, many of these models were developed with two teams from the U.S. Army Engineer Research and Development Center’s (ERDC) Environmental Laboratory (EL): the Water Research Integrating Socio-ecological and Engineered Systems (WRISES) team and the <a href="https://ecomod.erdc.dren.mil/">Integrated Ecological Modeling team</a>. Their contributions are gratefully acknowledged, but the presence of tools here does not reflect their endorsement.</p>
+<hr>
+<section id="ecological-modeling-and-assessment" class="level2">
+<h2 class="anchored" data-anchor-id="ecological-modeling-and-assessment">Ecological Modeling and Assessment</h2>
+<hr>
+<p>Many of these tools focus on assessing or forecasting ecological condition. Most of these models were designed to support ecosystem restoration decisions within the U.S. Army Corps of Engineers.</p>
+<p><strong>ecorest</strong></p>
+<p>Habitat suitability models are a common tool for informing ecosystem restoration. These models have a generalized index-based structure, where habitat quantity and quality are assessed separately. Quantity is usually quantified as area but may also be considered in terms of length (e.g., stream miles) or volume. Habitat quality is then assessed on a zero to one scale from unsuitable to optimal, respectively. Quality is assessed relative to different physical and biological co-variates to estimate suitability indices, and then multiple co-variates are aggregated into an overarching habitat suitability index (HSI). The <code>ecorest</code> R-package provides a generalized platform for conducting habitat suitability analyses. The package also includes data for 347 existing habitat models proposed by the U.S. Fish and Wildlife Service in the 1980s (the so-called “blue books”).</p>
+<ul>
+<li><a href="https://cran.r-project.org/web/packages/ecorest/">ecorest R-package</a><br>
+</li>
+<li><a href="https://wrises.shinyapps.io/ecorest-webapp/">web application</a><br>
+</li>
+<li><a href="https://github.com/USACE-WRISES/ecorest-webapp">repo for web application</a></li>
+</ul>
+<p><strong>Geospatial Suitability Index Toolbox (GSI)</strong></p>
+<p>The Geospatial Suitability Indices Toolbox (GSI Toolbox) provides an ArcGIS Pro toolbox for executing habitat suitability models. The tool provides a comparable set of algorithms to ‘ecorest’, but the numerical models are executed within a a raster-based geospatial environment.</p>
+<ul>
+<li><a href="https://erdc-library.erdc.dren.mil/bitstreams/63c6c2a8-e005-4727-b8fc-97c1c768a402/download">ERDC Technical Report SR-22-4</a>(Saltus et al.&nbsp;2022)<br>
+</li>
+<li><a href="https://dx.doi.org/10.21079/11681/41881">GIS Toolbox</a></li>
+</ul>
+<p><strong>Riparian Ecological Functions Index (REFI)</strong></p>
+<p>Riparian zones are important transitional areas between upland and stream ecosystems that improve water quality, provide ecological habitat and corridors, maintain natural hydrologic processes, and provide other important ecosystem goods and services. U.S. Army Corps of Engineers’ actions often affect riparian ecosystem structure and function such as ecological benefits associated with stream restoration projects and impacts associated with levee management. While some regional assessment procedures are available, practitioners lack broadly applicable models and tools for assessing riparian ecosystem condition. The Riparian Ecological Function Index (REFI) is a semi-quantitative, rapid assessment technique intended for nationwide use. This model is structured around three major ecological functions of riparian zones: (1) the riparian zone’s effect on instream outcomes, (2) its role in ecological connectivity, (3) how it provides unique and important habitats for a variety of taxa.</p>
+<ul>
+<li>The model is currently being reviewed for USACE certification.<br>
+</li>
+<li>Model documentation is also in review as an ERDC Technical Report.<br>
+</li>
+<li>A model overview was provided in an <a href="https://emrrp.el.erdc.dren.mil/webinars.html">EMRRP Webinar</a> on January 29, 2024.<br>
+</li>
+<li>A beta version of REFI was applied in the <a href="https://www.mdpi.com/2073-445X/14/3/449">Utoy Creek ecosystem restoration study</a>.</li>
+</ul>
+<p><strong>Web Application for Riparian Models (WARM)</strong></p>
+<p>Riparian zones are important transitional areas between upland and stream ecosystems that improve water quality, provide ecological habitat and corridors, maintain natural hydrologic processes, and provide important ecosystem goods and services. While many riparian models exist, they often are challenging to find in grey literature and may not have analytical tools and calculators readily available for other users. This model compiles nine riparian models into a web application for accessing these tools. This project embraces the principles of open science by increasing the accessibility and practicality of existing scientific models. For instance, our web interface helps practitioners locate hard-to-find models, select among models for a particular application, and execute the models with error-checked calculators. The application also increases the long-term shareability of these riparian models through platforming that publicly shares computational code (i.e., through online repositories), reduces barriers to entry for analysts (e.g., programming literacy), and increases ease of use, all of which save time and money.</p>
+<ul>
+<li><a href="https://wrises.shinyapps.io/warm/">Web application</a> is currently being reviewed for USACE certification.<br>
+</li>
+<li><a href="https://github.com/USACE-WRISES/riparian.webapp">repo for web application</a><br>
+</li>
+<li><a href="https://ascelibrary.org/doi/10.1061/9780784485163.024">Conference paper</a> summarizing the approach.<br>
+</li>
+<li>Model documentation is also in review as an ERDC Technical Note.<br>
+</li>
+<li><a href="https://dx.doi.org/10.21079/11681/47706">ERDC technical note</a> summarizing existing riparian models.<br>
+</li>
+<li>A model overview was provided in an <a href="https://emrrp.el.erdc.dren.mil/webinars.html">EMRRP Webinar</a> on January 31, 2024.</li>
+</ul>
+<p><strong>Watershed Upstream Connectivity Toolkit (WUCT)</strong></p>
+<p>This model provides a procedure for quantifying benefits associated with removal of organism movement barriers within a watershed (e.g., dam removal, culvert repair, fish ladder installation) or impacts of barrier addition (e.g., dam construction, weir installation). The model focuses on upstream movement of migratory organisms such as fish and is intended for application at the watershed-scale. The algorithm is based on four primary components: habitat quantity upstream of a dam, habitat quality upstream of a dam, the passability of a structure for a given organism, and the shape/topology of the watershed. This algorithm combines these data to estimate quality-weighted, accessible habitat at the watershed scale.</p>
+<ul>
+<li><a href="https://github.com/USACE-WRISES/WUCT">GitHub repo</a></li>
+<li><a href="https://github.com/USACE-WRISES/WUCT/blob/main/Instructions/README.md">Model documentation</a><br>
+</li>
+<li>Model applications in the Truckee River (NV), Duck-Buffalo watershed (TN), Bronx River (NY), Hudson River Valley (NY), and Proctor Creek (GA).<br>
+</li>
+<li>Model structure is described in a series of papers documenting the <a href="https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/12-1564.1">network theory</a>, the role of network metrics in <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/rra.3021">connectivity prioritization</a>, and <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rra.3684">selection of barrier prioritization methods</a>.</li>
+</ul>
+<p><strong>Proctor Creek Ecological Model (PCEM)</strong></p>
+<p>In partnership with the City of Atlanta and thirteen federal agencies, the Mobile District (SAM) of the U.S. Army Corps of Engineers (USACE) developed a feasibility study for urban stream restoration in Proctor Creek, Atlanta, Georgia. A two-part numerical modeling toolkit, the Proctor Creek Ecological Model (PCEM), was developed to support planning of this ecosystem restoration project. In both phases, PCEM contains four modules related to instream condition, riparian condition, hydrologic change, and watershed connectivity, which are combined into an overarching assessment of stream ecosystem integrity at the watershed-scale.</p>
+<ul>
+<li><a href="https://dx.doi.org/10.21079/11681/29514">Phase 1 modeling report</a><br>
+</li>
+<li><a href="https://dx.doi.org/10.21079/11681/29515">Phase 2 modeling report</a></li>
+</ul>
+<p><strong>New York Bight Ecological Model (NYBEM)</strong></p>
+<p>The U.S. Army Corps of Engineers (USACE) is conducting three large-scale coastal storm risk management feasibility studies in the New York Bight ecosystem, specifically: the New Jersey Back Bays, the New York-New Jersey Harbor &amp; Tributaries Study, and the Nassau County Back Bays. In these study areas, the USACE is considering a diversity of measures for mitigating flood risks, including structural actions (e.g., levees, floodwalls, storm surge barriers), non-structural measures (e.g., buy-outs, elevation of structures, flood-proofing), and natural and nature-based features (e.g., wetland creation, reefs for breakwaters). The New York Bight Ecological Model (NYBEM) is being developed as a tool for partially assessing the direct and indirect effects of agency actions on regional ecosystems. The NYBEM assesses changes in habitat quantity and quality associated with changing hydrodynamic conditions in six major ecosystem types: freshwater tidal, estuarine intertidal, estuarine subtidal, marine intertidal, marine subtidal, and marine deepwater. The numerical code for NYBEM was programmed in the R Statistical Software Language, and the model code is contained within an R-package (<code>nybem</code>).</p>
+<ul>
+<li><a href="https://mvr-gis.github.io/NYBEM-Report/">Online model documentation</a> that is currently in review for USACE certification.<br>
+</li>
+<li><a href="https://github.com/MVR-GIS/nybem">R-package</a> containing all model code.</li>
+</ul>
+<p><strong>Simple Model for Urban Riparian Function (SMURF)</strong></p>
+<p>Stream assessment tools have been developed for rapid application and restoration prioritization in urban streams. While these models typically include riparian variables, they are often inherently focused on in-channel outcomes. The Simple Model for Urban Riparian Function (SMURF) is designed as a rapid assessment technique for highly urbanized environments. Three major categories of outputs are addressed: (1) indirect effects of riparian zones on instream processes, (2) riparian areas as important providers of native faunal habitat, and (3) riparian zones as ecological corridors and sources of resilience in highly disturbed areas. The model uses a combination of rapid field assessment protocols and desktop geospatial assessments applied independently to left and right banks. The SMURF was developed and applied in the context of the Beargrass Creek ecosystem restoration study in Louisville, Kentucky; however, the modeling approach is adaptable to other urban riparian zones.</p>
+<ul>
+<li>Model documentation in review as ERDC Technical Report<br>
+</li>
+<li>Model code available upon request from WRISES<br>
+</li>
+<li>Model application in the <a href="https://www.lrd.usace.army.mil/Missions/Projects/Article/3637533/three-forks-of-beargrass-creek-ecosystem-restoration-feasibility-study/">Beargrass Creek ecosystem restoration feasibility study</a><br>
+</li>
+<li>Model evaluation was conducted relative to vegetation monitoring data, which will be documented in a forthcoming ERDC Technical Note.</li>
+</ul>
+<p><strong>Qualitative Habitat Evaluation Index for Louisville Streams (QHEILS)</strong></p>
+<p>Urban stream restoration typically involves multiple objectives addressing different aspects of ecosystem integrity, such as habitat provision, geomorphic condition, watershed connectivity, water quality, and land-use change. Multiple stream assessment tools and models have been developed and applied to inform restoration prioritization, planning, and design. The Qualitative Habitat Evaluation Index for Louisville Streams (QHEILS, pronounced “quails”) was designed as an interdisciplinary assessment method for urban streams in the Louisville, Kentucky, metropolitan region. The model adapts a regional habitat assessment procedure, the Qualitative Habitat Evaluation Index (QHEI), by incorporating additional processes related to geomorphic change and watershed connectivity.</p>
+<ul>
+<li><a href="https://dx.doi.org/10.21079/11681/48759">ERDC Technical Note</a> containing model documentation and associated R script.</li>
+</ul>
+<p><strong>Rio Grande Silvery Minnow Population Tool</strong></p>
+<p>To estimate Rio Grande Silvery Minnow recruitment under different hydrologic, restoration, and management scenarios, we first built a 2-D hydraulic model that estimated floodplain inundation extent within the Middle Rio Grande at seven discharges between 700 and 7,000 cfs. To quantify the relationship between inundation and recruitment, we used a sophisticated RGSM population model (<a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.4240">Yackulic et al.&nbsp;2022</a>) that integrates fish monitoring data, hydrologic data, and expert elicitation of RGSM spawning parameters, but does not include absolute amounts of habitat so cannot be used to estimate recruitment expected from specific restoration projects. We created new versions of this population model that incorporate our floodplain inundation estimates, and then used out-of-sample RGSM monitoring data to validate our results. This model therefore estimates the empirical relationship between amount of inundation and the number of RGSM that are recruited to the population in spring. Using this estimate, we are then able to generate estimates of RGSM recruitment under different restoration and hydrologic scenarios at different discharge levels. The model is presented in a simple to use web application.</p>
+<ul>
+<li><a href="https://wrises.shinyapps.io/rgsm-recruit/">Web application</a></li>
+</ul>
+<p><strong>riverweed</strong></p>
+<p>Aquatic macrophyte provide a uniqe array of ecological functions ranging from nutrient uptake to provision of invertebrate and fish habitat. This model provides a suite of functions and algorithms for estimating growth of aquatic macrophytes. The model was designed around hornleaf riverweed (<em>Podostemum ceratophyllum</em>), but the general procedures could be adapted to other macrophytes.</p>
+<ul>
+<li><a href="https://github.com/USACE-WRISES/riverweed"><code>riverweed</code> R-package</a><br>
+</li>
+<li>Models are currently be documented in a journal paper.</li>
+</ul>
+<hr>
+</section>
+<section id="hydraulic-and-hydrologic-modeling" class="level2">
+<h2 class="anchored" data-anchor-id="hydraulic-and-hydrologic-modeling">Hydraulic and Hydrologic Modeling</h2>
+<hr>
+<p>Understanding ecological dynamics often requires linking with models of physical processes. The following tools assess physical processes with a particular emphasis on hydraulic and hydrologic modeling.</p>
+<p><strong>HYDraulic ROughness CALculator (HYDROCAL)</strong></p>
+<p>The ability to quantify the influence of vegetation on channel and floodplain hydraulics, in particular hydraulic roughness, is critical for flood control concerns; however, diversity of vegetation type and behavior makes this parameter very difficult to quantify repeatedly and accurately. HYDROCAL combines a number of methods for estimating roughness into a single user-interface. The model was originally programmed in Excel, but has been subsequently recoded in R and served through a web application.</p>
+<ul>
+<li><a href="https://hdl.handle.net/11681/2034">ERDC Technical Note</a> documenting original model theory and goals.<br>
+</li>
+<li><a href="https://cran.r-project.org/package=HYDROCAL">R-package</a><br>
+</li>
+<li><a href="https://wrises.shinyapps.io/hydrocal/">Web application</a></li>
+</ul>
+<p><strong>Rapid Hydraulic Assessment (RHA)</strong></p>
+<p>The planning, design, and installation of a stream restoration project must take into account the hydraulic conditions of the stream being restored. Even a cursory review of channel hydraulics can increase the probability of achieving successful restoration outcomes. This technical note briefly reviews key issues in hydraulic classification, presents preliminary hydraulic analyses common to most stream restoration projects, and discusses a set of simple tools for first-order, rapid hydraulic analyses. The Rapid Hydraulic Assessment toolkit provides two modules for estimating single cross-section channel hydraulics at normal flow conditions.</p>
+<ul>
+<li><a href="https://hdl.handle.net/11681/4038">ERDC Technical Note</a> on simple hydraulic analysis<br>
+</li>
+<li><a href="https://cw-environment.erdc.dren.mil/cwmg/rha/RHA-Trap.html">Trapezoidal cross-section tool</a><br>
+</li>
+<li><a href="https://cw-environment.erdc.dren.mil/cwmg/rha/RHA-Cross.html">Irregular cross-section tool</a></li>
+</ul>
+<p><strong>eRAMS Flow Analysis</strong></p>
+<p>Colorado State’s <a href="https://erams.com/catena/">eRAMS modeling platform</a> provides a diverse suite of tools for environmental analysis in a simple to use geospatial interface. ERDC partnered with Colorado State on models for real-time analysis of USGS streamflow gage data. Models automate standard hydrologic analyses from Bulletin 17B, provide novel visualization methods for displaying streamflow data, and provide a mechanism for computing environmental flow metrics.</p>
+<ul>
+<li><a href="https://erams.com/flowanalysis">eRAMS flow analysis tools</a></li>
+</ul>
+<hr>
+</section>
+<section id="decision-support-tools" class="level2">
+<h2 class="anchored" data-anchor-id="decision-support-tools">Decision Support Tools</h2>
+<hr>
+<p>Much of my work focuses on application of models to inform ecosystem restoration and flood risk management projects. These efforts often include decision support modeling that synthesizes ecological outcomes with cost estimates and other factors.</p>
+<p><strong>ecorest (again?!)</strong></p>
+<p>The U.S. Army Corps of Engineers (USACE) engages in a large variety of decisions affecting ecological outcomes such as ecosystem restoration of oyster reefs, environmental flows for imperiled fishes, and bird breeding grounds impacted by dredge material management. Many models can be used to assess ecological outcomes of these project (see examples above). These ecological outcomes are often combined with cost estimates to inform decision making. In addition to the habitat modeling features described above, <code>ecorest</code> also includes a suite of decision support tools for conducting cost-effectiveness and incremental cost analyses. These tools mirror procedures from <a href="http://www.iwr.usace.army.mil/Missions/Economics/IWR-Planning-Suite/">IWR Planning Suite</a>, but they are intended for different use case such as rapid analyses with a web application or detailed simulations coupled with other R-based ecological modeling algorithms.</p>
+<ul>
+<li><a href="https://cran.r-project.org/web/packages/ecorest/">ecorest R-package</a><br>
+</li>
+<li><a href="https://wrises.shinyapps.io/ecorest-webapp/">web application</a><br>
+</li>
+<li><a href="https://github.com/USACE-WRISES/ecorest-webapp">repo for web application</a></li>
+<li><a href="https://usace-wrises.github.io/ecorest.documentation/">preliminary model documentation</a></li>
+</ul>
+<p><strong>EngrEcon</strong></p>
+<p>Water resource engineering and ecosystem restoration projects typically require economic analysis of the costs and benefits of alternative actions. However, costs may not be distributed evenly over a project’s life cycle and may include initial capital investments, short-term adaptive management actions, long-term operations and maintenance, and eventually disposal (e.g., de-construction, removal, or de-commissioning). Engineering economics methods exist to convert cost between present, future, and annualized costs to inform life cycle planning. Life cycle cost analysis may be particularly important when comparing projects with dramatically different investments through time (e.g., an operationally intensive conventional infrastructure system vs.&nbsp;a larger capital investment in natural infrastructure). The <code>EngrEcon</code> toolkit provides a suite of functions and methods for executing standard engineering economics calculations such as cost conversion, cash flow analysis, and life cycle cost analysis. A set of analytical functions was programmed in the R Statistical Software Language and bundled together in a globally available R package. Additionally, a web application was developed to reduce barriers to entry for users without programming experience.</p>
+<ul>
+<li><a href="https://cran.r-project.org/web/packages/EngrEcon/index.html"><code>EngrEcon</code> R-package</a><br>
+</li>
+<li><a href="https://wrises.shinyapps.io/engrecon-webapp/">Web application</a><br>
+</li>
+<li>Model documentation is currently being reviewed for USACE certification.</li>
+</ul>
+<p><strong>Dam Removal Cost Estimator</strong></p>
+<p>Dam removal has grown into a common action for both river restoration and infrastructure asset management. This tool provides a method for estimating monetary costs of dam removal project. The models are based on 668 dam removal projects and driven by a machine learning algorithm. A web application provides a simple use interface for model access.</p>
+<ul>
+<li><a href="https://wrises.shinyapps.io/DamRemovalCostPredictiveModel/">Web application</a><br>
+</li>
+<li><a href="https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2023.1215471/full">Journal paper</a> presenting model background and data<br>
+</li>
+<li><a href="https://www.usgs.gov/publications/dam-removal-cost-databases-and-drivers">Cost engineering report</a> to guide cost estimation procedures for dam removal</li>
+</ul>
+<p><strong>Utoy Creek Decision Support Models</strong></p>
+<p>In partnership with the City of Atlanta, the USACE’s Mobile District is leading a feasibility study of potential stream restoration actions in the Utoy Creek watershed. The study is authorized through the USACE’s continuing authorities program (CAP) for aquatic ecosystem restoration (Section 206, WRDA 1996). This decision support model and associated report presents cost-effectiveness and incremental cost analyses (CEICA) to guide development of the agency’s recommended restoration plan as well as demographic analysis of communities affected by the recommend plan. The report applies CEICA in multiple contexts to inform decisions in the Utoy Creek watershed as the project proceeds from site screening to site-scale justification to watershed-scale portfolio analysis.</p>
+<ul>
+<li><a href="https://usace-wrises.github.io/UtoyDecisions/">Online report</a></li>
+<li><a href="https://github.com/USACE-WRISES/UtoyDecisions">GitHub repo</a></li>
+</ul>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/skmckay\.github\.io\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
