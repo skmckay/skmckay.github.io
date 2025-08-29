@@ -38,7 +38,7 @@ Scientific impact derives through dozens of mechanisms ranging from effects on p
 
 ## Forthcoming
 
-Stepchinski L., Menichino G.T., Harris A.E., and McKay S.K. A review of stream assessment methods in the United States. In revision at *Journal of the American Water Resources Association*.
+Conn C.C., Rosemond A.D., Bumpers P.M., Freeman M.C., McKay S.K., and Wenger S.J. Antecedent flow conditions drive patterns of primary producer biomass in a mid-sized temperate river. Submitted to *Freshwater Biology*. 
 
 Rack L.E., Freeman M.C., Cowie G., Yang C., McKay S.K., Craig L.S., and Wenger S.J. Quantifying river ecosystem needs: developing environmental flows and metrics for regional water planning in Georgia, USA. Submitted to *PLoS Water*.
 
@@ -53,6 +53,8 @@ van Rees C., Jumani S., Chaudhary V., German L., Dekker T., McKay S.K., and Weng
 Irving K., Mathwin R., Kotalik C., Webb J.A., Walters D.M., Lovett S.E., McKay S.K., Torrens C., Olson J., and El Jack Z. Adaptive modeling to inform environmental management. Submitted to *Environmental Management*.
 
 Jumani S., McKay S.K., Moberg T., Hoenke K., and Wenger S.J. Estimating the monetary costs of aging dam removals in the United States. Submitted to *Environmental Challenges*.
+
+Stepchinski L., Menichino G.T., Harris A.E., and McKay S.K. A review of stream assessment methods in the United States. In revision at *Journal of the American Water Resources Association*.
 
 McKay S.K., Wiest S.R., McFadden S., and Hawkins J. Riparian model evaluation in Beargrass Creek, Louisville, Kentucky. In press for *ERDC TN-EMRRP*. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
 
