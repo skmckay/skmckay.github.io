@@ -1,0 +1,41 @@
+---
+title: "Scratch Pad"
+description: "Odds and Ends."
+format:
+  html:
+    page-layout: full
+---
+
+```{css, echo=FALSE}
+.quarto-title {
+    display: none;
+}
+
+.description {
+    display: none;
+}
+
+.publications {
+  text-indent: -10px; 
+  padding-left: 10px;
+}
+
+.publinks {
+  text-indent: 0px; 
+  padding-left: 0px;
+}
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=FALSE)
+```
+
+# **Odds and Ends**
+
+This page contains little scraps of ideas that are poorly formed and disorganized. It is mostly archival of notes for myself, but I thought some of these might also be helpful for others. Use this information at your own risk!  
+
+- [Middle Oconee Bibliography](https://skmckay.github.io/MiddleOconee/): A list of scientific studies and resources focused on the Middle Oconee River near Athens, Georgia.  
+- Facilitation resources: Coming soon. 
+- [Scientific writing resources](https://skmckay.github.io/ScientificWriting/): Papers and web resources for developing scientific papers and navigating authorship questions. 
+- An abridged list of NBS guidance: Coming soon. 
+

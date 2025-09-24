@@ -10,7 +10,7 @@ website:
   title: "skmckay"
   google-analytics: G-HPGGT4QZ8Q
   site-url: "https://skmckay.github.io/"
-  description: "Website for skmckay's applied research."
+  description: "skmckay's applied research."
   twitter-card: true
   open-graph: true
   navbar:
@@ -24,7 +24,9 @@ website:
       - href: Models.qmd
         text: Models
       - href: Teaching.qmd
-        text: Teaching
+        text: Teaching  
+      - href: ScratchPad.qmd
+        text: Scratch Pad
     right:
       - icon: github
         href: https://github.com/skmckay
