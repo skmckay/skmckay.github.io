@@ -37,5 +37,5 @@ This page contains little scraps of ideas that are poorly formed and disorganize
 - [Middle Oconee Bibliography](https://skmckay.github.io/MiddleOconee/): A list of scientific studies and resources focused on the Middle Oconee River near Athens, Georgia.  
 - Facilitation resources: Coming soon. 
 - [Scientific writing resources](https://skmckay.github.io/ScientificWriting/): Papers and web resources for developing scientific papers and navigating authorship questions. 
-- An abridged list of NBS guidance: Coming soon. 
+- [An abridged list of NBS guidance](https://skmckay.github.io/NBS.Guidance/): The world of nature-based solutions is evolving rapidly. This list catalogs a few of the "guidance" documents being released (mostly so I don't forget about some of them). 
 
