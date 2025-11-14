@@ -42,17 +42,13 @@ Cushway K.C., Rodriguez J., Foxfoot I.R., and McKay S.K. Ecological data visuali
 
 Cushway K., Shaw C., McKay S.K., and Swannack T.M. Evaluating habitat suitability models with sensitivity and uncertainty analysis. Submitted to *Environmental Modelling and Software*.  
 
-Conn C.C., Rosemond A.D., Bumpers P.M., Freeman M.C., McKay S.K., and Wenger S.J. Antecedent flow conditions drive patterns of primary producer biomass in a mid-sized temperate river. Submitted to *Freshwater Biology*. 
+Conn C.C., Rosemond A.D., Bumpers P.M., Freeman M.C., McKay S.K., and Wenger S.J. Antecedent flow conditions drive patterns of primary producer biomass in a mid-sized temperate river. Submitted to *Freshwater Science*. 
 
 Rack L.E., Freeman M.C., Cowie G., Yang C., McKay S.K., Craig L.S., and Wenger S.J. Quantifying river ecosystem needs: developing environmental flows and metrics for regional water planning in Georgia, USA. Submitted to *PLoS Water*.
-
-Naslund L.C., Mehring A.S., Tomczyk N.K., Rosemond A.D., McKay S.K., Bernhardt E.S., and Wenger S.J. Consequences of dam removal for carbon storage and emissions. Submitted to *Journal of Environmental Management*.
 
 Hallemeier J. and McKay S.K. Building capacities for natural and nature-based features through collaboration in Jamaica Bay, New York City. Submitted to *Ecology & Society*.
 
 Corwin E., Reguero B.G., McKay S.K., Piercy C.D., Pontee N.I., Tomiczek T., Jameson T., Bledsoe B., and Narayan S. Nature-based design standards: Past, present, and future. Accepted at *ASCE One*.
-
-van Rees C., Jumani S., Chaudhary V., German L., Dekker T., McKay S.K., and Wenger S. Guideposts and guardrails for biodiversity accounting in the 21st Century. Submitted to *Biological Conservation*.
 
 Irving K., Mathwin R., Kotalik C., Webb J.A., Walters D.M., Lovett S.E., McKay S.K., Torrens C., Olson J., and El Jack Z. Adaptive modeling to inform environmental management. Submitted to *Environmental Management*.
 
@@ -71,6 +67,10 @@ McKay S.K., Hernández-Abrams D.D., Allen S., Miller J., Weppler P., and Swannac
 McKay S.K., Conyngham J.N., Smith D., and Killgore J. Assessing fish passage rates. In press for *ERDC TR-EMRRP*. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
 
 ## Journal Papers
+
+37\. van Rees C., Jumani S., Chaudhary V., German L., Dekker T., McKay S.K., and Wenger S. 2025. Guideposts and guardrails for biodiversity accounting in the 21st Century. *Biological Conservation* 313, 111527, https://doi.org/10.1016/j.biocon.2025.111527. [open access](https://www.sciencedirect.com/science/article/pii/S0006320725005646)
+
+36\. Naslund L.C., Mehring A.S., Tomczyk N.K., Rosemond A.D., McKay S.K., Bernhardt E.S., and Wenger S.J. Consequences of dam removal for carbon storage and emissions. *Journal of Environmental Management*, https://doi.org/10.1016/j.jenvman.2025.127792. [open access](https://doi.org/10.1016/j.jenvman.2025.127792)
 
 35\. Ayala-Torres R., Dietterich L.H., Wiest S., and McKay S.K. 2025. Developing predictive models of riparian buffer efficacy with meta-analysis. *Environmental Challenges* 20 (101258), https://doi.org/10.1016/j.envc.2025.101258. [open access](https://www.sciencedirect.com/science/article/pii/S2667010025001775?via%3Dihub)
 
