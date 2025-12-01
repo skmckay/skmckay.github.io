@@ -73,6 +73,14 @@ Riparian zones are important transitional areas between upland and stream ecosys
 -   [ERDC technical note](https://dx.doi.org/10.21079/11681/47706) summarizing existing riparian models.\
 -   A model overview was provided in an [EMRRP Webinar](https://emrrp.el.erdc.dren.mil/webinars.html) on January 31, 2024.
 
+**Buffer Relative Assessment Tool (BRAT)**
+
+Many tools have been developed to inform riparian management ranging from mechanistic vegetative growth models to habitat suitability indices to multi-metric scoring systems. As a simple proxy, riparian zone width has provided a useful first order metric for estimating functional outcomes. This model provides a simple quantitative tool for assessing riparian zone quality based on rapidly applicable desktop analyses, the Buffer Relative Assessment Tool (BRAT). The model seeks to inform preliminary stream restoration planning when comparing the relative merits of multiple restoration sites (e.g., Site-A vs. Site-B) or divergent alternatives (e.g., large-scale levee setback vs. riparian planting of existing riparian areas). 
+
+-   [Journal paper](https://www.sciencedirect.com/science/article/pii/S2667010025001775?via%3Dihub) describing a meta-analysis of riparian buffer performance relative to water quality and biodiversity outcomes.\
+-   A [web application](https://skmckay.shinyapps.io/BRAT/) for rapid comparison of riparian buffers is currently being reviewed for USACE certification.\
+
+
 **Watershed Upstream Connectivity Toolkit (WUCT)**
 
 This model provides a procedure for quantifying benefits associated with removal of organism movement barriers within a watershed (e.g., dam removal, culvert repair, fish ladder installation) or impacts of barrier addition (e.g., dam construction, weir installation). The model focuses on upstream movement of migratory organisms such as fish and is intended for application at the watershed-scale. The algorithm is based on four primary components: habitat quantity upstream of a dam, habitat quality upstream of a dam, the passability of a structure for a given organism, and the shape/topology of the watershed. This algorithm combines these data to estimate quality-weighted, accessible habitat at the watershed scale.
@@ -186,6 +194,15 @@ Dam removal has grown into a common action for both river restoration and infras
 -   [Web application](https://wrises.shinyapps.io/DamRemovalCostPredictiveModel/)\
 -   [Journal paper](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2023.1215471/full) presenting model background and data\
 -   [Cost engineering report](https://www.usgs.gov/publications/dam-removal-cost-databases-and-drivers) to guide cost estimation procedures for dam removal
+
+
+**Dam Removal Objective Selector**
+
+Proactive and transparent decision-making about the long-term management of dams, including rehabilitation, retrofit, and removal, is critical for successfully managing this aging infrastructure and presents an opportunity to weigh the many services and disservices dams provide. Existing tools to support dam removal decisions often constrain decision processes by considering only a limited set of user objectives. To facilitate dam removal decisions with diverse objectives, we created a  web application, which supports decisions with 18 objectives that we identified in the literature. The application guides users to select appropriate objectives, choose metrics and methods to evaluate management alternatives, and identify additional decision-support tools to weigh alternatives relative to selected objectives. 
+
+-   [Web application](https://n-ewn.org/dam-removal-tool/)\
+-   [Journal paper](https://onlinelibrary.wiley.com/doi/10.1002/rra.4390)\
+
 
 **Utoy Creek Decision Support Models**
 
