@@ -53,6 +53,15 @@ The Geospatial Suitability Indices Toolbox (GSI Toolbox) provides an ArcGIS Pro 
 -   [ERDC Technical Report SR-22-4](https://erdc-library.erdc.dren.mil/bitstreams/63c6c2a8-e005-4727-b8fc-97c1c768a402/download)(Saltus et al. 2022)\
 -   [GIS Toolbox](https://dx.doi.org/10.21079/11681/41881)
 
+
+**Stream Assessment Database**
+
+Stream assessments are needed to inform regulatory decisions, mitigation and restoration design, and other management practices. Many methods have emerged to meet regional needs and specific management contexts. The number of available approaches creates confusion over the relative merits of methods and appropriate use cases. Furthermore, the complexity of these approaches ranges from rapid evaluations requiring minutes to complete to detailed methods needing weeks of effort. However, the level of effort associated with approaches is rarely tracked for method selection. Differences in measurement metrics and data collection create obstacles to consistent, meaningful comparisons across methods and regions. We compiled and analyzed 188 stream assessment methods into an interactive database, revealing four core challenges: (1) inefficient identification of methods, (2) diverse metrics for ecosystem condition, (3) a wide range of resource needs, and (4) limited comparability of results. 
+
+-   [Interactive database](https://usace-wrises.github.io/RiverEngineeringResources/assessment).\  
+-   [Journal article](https://onlinelibrary.wiley.com/doi/10.1111/1752-1688.70056) summarizing the compilation of the database and synthesizing findings about trends in stream assessment.
+
+
 **Riparian Ecological Functions Index (REFI)**
 
 Riparian zones are important transitional areas between upland and stream ecosystems that improve water quality, provide ecological habitat and corridors, maintain natural hydrologic processes, and provide other important ecosystem goods and services. U.S. Army Corps of Engineers’ actions often affect riparian ecosystem structure and function such as ecological benefits associated with stream restoration projects and impacts associated with levee management. While some regional assessment procedures are available, practitioners lack broadly applicable models and tools for assessing riparian ecosystem condition. The Riparian Ecological Function Index (REFI) is a semi-quantitative, rapid assessment technique intended for nationwide use. This model is structured around three major ecological functions of riparian zones: (1) the riparian zone’s effect on instream outcomes, (2) its role in ecological connectivity, (3) how it provides unique and important habitats for a variety of taxa.
