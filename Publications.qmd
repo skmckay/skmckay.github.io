@@ -64,7 +64,6 @@ McKay S.K., Goss M., Veraldi F., and Mattingly L. Simple Model for Urban Riparia
 
 McKay S.K., Hernández-Abrams D.D., Allen S., Miller J., Weppler P., and Swannack T.M. Developing a multi-ecosystem conceptual model for the New York Bight. In press for *ERDC TN-EMRRP*. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
 
-McKay S.K., Conyngham J.N., Smith D., and Killgore J. Assessing fish passage rates. In press for *ERDC TR-EMRRP*. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
 
 ## Journal Papers
 
@@ -145,6 +144,8 @@ McKay S.K., Conyngham J.N., Smith D., and Killgore J. Assessing fish passage rat
 1\. Stone M.C., Chen L., McKay S.K., Goreham J., Acharya K., Fischenich C., and Stone A.B. 2013. Bending of submerged woody riparian vegetation as a function of hydraulic flow conditions. *River Research and Applications*, 29 (2), 195-205. doi: 10.1002/rra.1592. [pdf](publications/Stone%20et%20al.%20-%202013%20-%20TreeBending.pdf)
 
 ## Government Reports
+
+47\. McKay S.K., Conyngham J.N., Killgore K.J., Smith D., Tripp S., Garvey J., Ward D., Goodwin R.A., Lai Y., Nestler J.M., Slack W.T., Lewis B.R., Katzenmeyer A.W., Collins J.A., George S.G., and Fischenich J.C. 2025. Assessing fish passage rates.  [ERDC SR-25-9](https://erdc-library.erdc.dren.mil/items/ffe11f7f-17b6-4608-857a-fb3e2f86537f).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
 
 46\. Curran J.C., McKay S.K., Beagle J.R., Brauer E.J., Haring C.P., Thomas J., Lange J., Duhr D., VanBuecken N., Rose C., Bishop D., and Jensen S. 2025. Engineering practice guide for floodplain benching: A natural infrastructure approach for riverine systems. [ERDC TR-25-15](https://dx.doi.org/10.21079/11681/49845). U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
 
