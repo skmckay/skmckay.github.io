@@ -123,7 +123,10 @@ knitr::include_graphics("images/BrooklynCollege_UrbanWaters_2023_Park.jpg")
 ::: {.column width="60%"}
 **Nature-Based Solutions Seminar**
 
-Co-developed and taught by Dr. Kyle McKay and [Dr. Brett Branco](https://srijb.org/home/staff/) in Fall 2024.
+Co-developed and taught by Dr. Kyle McKay and [Dr. Brett Branco](https://srijb.org/home/staff/).
+
+Fall 2024 (download syllabus).  
+Fall 2026 [course website](https://skmckay.github.io/CUNY.NBS.2026/).
 
 EESC 7903G (3 credit hours), Earth and Environmental Science program, Brooklyn College, CUNY.
 
