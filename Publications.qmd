@@ -38,6 +38,8 @@ Scientific impact derives through dozens of mechanisms ranging from effects on p
 
 ## In Review
 
+Harris A.E., Cushway K.C., Stowe E.S., Schwalb A.N., McKay S.K., and Swannack T.M. Identifying drivers of mussel distribution using hydraulic simulation and machine learning. Submitted to *Ecological Monographs*.
+
 Stowe E., Harris A.E., Archdeacon T., Yackulic C.B. and McKay S.K. Integrating hydraulic and population models to estimate the population impacts of site-scale floodplain restoration. Submitted to *Ecosphere*.
 
 Cushway K.C., Rodriguez J., Foxfoot I.R., and McKay S.K. Ecological data visualization as a means to narrative building. Submitted to the 3rd edition of the *Encyclopedia of Ecology*.
@@ -63,7 +65,6 @@ Abera L., Shaw C., and McKay S.K. A user’s guide for the engineering economics
 McKay S.K., Goss M., Veraldi F., and Mattingly L. Simple Model for Urban Riparian Function (SMURF), Version 1.0. In review for *ERDC TR-EMRRP*. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
 
 McKay S.K., Hernández-Abrams D.D., Allen S., Miller J., Weppler P., and Swannack T.M. Developing a multi-ecosystem conceptual model for the New York Bight. In press for *ERDC TN-EMRRP*. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
-
 
 ## Journal Papers
 
@@ -145,7 +146,7 @@ McKay S.K., Hernández-Abrams D.D., Allen S., Miller J., Weppler P., and Swannac
 
 ## Government Reports
 
-47\. McKay S.K., Conyngham J.N., Killgore K.J., Smith D., Tripp S., Garvey J., Ward D., Goodwin R.A., Lai Y., Nestler J.M., Slack W.T., Lewis B.R., Katzenmeyer A.W., Collins J.A., George S.G., and Fischenich J.C. 2025. Assessing fish passage rates.  [ERDC SR-25-9](https://erdc-library.erdc.dren.mil/items/ffe11f7f-17b6-4608-857a-fb3e2f86537f).  U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+47\. McKay S.K., Conyngham J.N., Killgore K.J., Smith D., Tripp S., Garvey J., Ward D., Goodwin R.A., Lai Y., Nestler J.M., Slack W.T., Lewis B.R., Katzenmeyer A.W., Collins J.A., George S.G., and Fischenich J.C. 2025. Assessing fish passage rates. [ERDC SR-25-9](https://erdc-library.erdc.dren.mil/items/ffe11f7f-17b6-4608-857a-fb3e2f86537f). U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
 
 46\. Curran J.C., McKay S.K., Beagle J.R., Brauer E.J., Haring C.P., Thomas J., Lange J., Duhr D., VanBuecken N., Rose C., Bishop D., and Jensen S. 2025. Engineering practice guide for floodplain benching: A natural infrastructure approach for riverine systems. [ERDC TR-25-15](https://dx.doi.org/10.21079/11681/49845). U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
 
