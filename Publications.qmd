@@ -38,7 +38,9 @@ Scientific impact derives through dozens of mechanisms ranging from effects on p
 
 ## In Review
 
-Harris A.E., Cushway K.C., Stowe E.S., Schwalb A.N., McKay S.K., and Swannack T.M. Identifying drivers of mussel distribution using hydraulic simulation and machine learning. Submitted to *Ecological Monographs*.
+McKay S.K., Hunter J., Ruff J., Burns M., Ackerman D., and Long M. Aligning multiple methods to inform integrated catchment planning in the Brewer Lake Watershed, Arkansas, USA. In preparation for *Water*. 
+
+Harris A.E., Cushway K.C., Stowe E.S., Schwalb A.N., McKay S.K., and Swannack T.M. Identifying drivers of mussel distribution using hydraulic simulation and machine learning. In preparation for *Ecological Monographs*.
 
 Stowe E., Harris A.E., Archdeacon T., Yackulic C.B. and McKay S.K. Integrating hydraulic and population models to estimate the population impacts of site-scale floodplain restoration. Submitted to *Ecosphere*.
 
@@ -51,8 +53,6 @@ Conn C.C., Rosemond A.D., Bumpers P.M., Freeman M.C., McKay S.K., and Wenger S.J
 Rack L.E., Freeman M.C., Cowie G., Yang C., McKay S.K., Craig L.S., and Wenger S.J. Quantifying river ecosystem needs: developing environmental flows and metrics for regional water planning in Georgia, USA. Accepted at *PLoS Water*.
 
 Hallemeier J. and McKay S.K. Building capacities for natural and nature-based features through collaboration in Jamaica Bay, New York City. Submitted to *Ecology & Society*.
-
-Corwin E., Reguero B.G., McKay S.K., Piercy C.D., Pontee N.I., Tomiczek T., Jameson T., Bledsoe B., and Narayan S. Nature-based design standards: Past, present, and future. Accepted at *ASCE One*.
 
 Irving K., Mathwin R., Kotalik C., Webb J.A., Walters D.M., Lovett S.E., McKay S.K., Torrens C., Olson J., and El Jack Z. Adaptive modeling to inform environmental management. Submitted to *Environmental Management*.
 
@@ -67,6 +67,8 @@ McKay S.K., Goss M., Veraldi F., and Mattingly L. Simple Model for Urban Riparia
 McKay S.K., Hernández-Abrams D.D., Allen S., Miller J., Weppler P., and Swannack T.M. Developing a multi-ecosystem conceptual model for the New York Bight. In press for *ERDC TN-EMRRP*. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
 
 ## Journal Papers
+
+39\. Corwin E., Reguero B.G., McKay S.K., Piercy C.D., Pontee N.I., Tomiczek T.T., Jameson T., Narayan S., Sridharan V.K., and Bledsoe B.P. 2026. Nature-based design standards: Past, present, and future. ASCE Open., 4(1): 04026002. [open access](https://doi.org/10.1061/AOMJAH.AOENG-0068). 
 
 38\. Stepchinski L.M., McKay S.K., Harris A.E., and Menichino G.T. 2025. A review of stream assessment methods in the United States. *Journal of the American Water Resources Association*, http://dx.doi.org/10.1111/1752-1688.70056. [open access](https://onlinelibrary.wiley.com/doi/10.1111/1752-1688.70056).
 
