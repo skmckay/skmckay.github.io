@@ -40,17 +40,13 @@ Scientific impact derives through dozens of mechanisms ranging from effects on p
 
 McKay S.K., Hunter J., Ruff J., Burns M., Ackerman D., and Long M. Aligning multiple methods to inform integrated catchment planning in the Brewer Lake Watershed, Arkansas, USA. In preparation for *Water*. 
 
-Harris A.E., Cushway K.C., Stowe E.S., Schwalb A.N., McKay S.K., and Swannack T.M. Identifying drivers of mussel distribution using hydraulic simulation and machine learning. In preparation for *Ecological Monographs*.
+Harris A.E., Cushway K.C., Stowe E.S., Schwalb A.N., McKay S.K., and Swannack T.M. Identifying drivers of mussel distribution using hydraulic simulation and machine learning. Submitted to *Ecological Monographs*.
 
 Stowe E., Harris A.E., Archdeacon T., Yackulic C.B. and McKay S.K. Integrating hydraulic and population models to estimate the population impacts of site-scale floodplain restoration. Submitted to *Ecosphere*.
-
-Cushway K.C., Rodriguez J., Foxfoot I.R., and McKay S.K. Ecological data visualization as a means to narrative building. Submitted to the 3rd edition of the *Encyclopedia of Ecology*.
 
 Cushway K., Shaw C., McKay S.K., and Swannack T.M. Evaluating habitat suitability models with sensitivity and uncertainty analysis. Submitted to *Environmental Modelling and Software*.
 
 Conn C.C., Rosemond A.D., Bumpers P.M., Freeman M.C., McKay S.K., and Wenger S.J. Antecedent flow conditions drive patterns of primary producer biomass in a mid-sized temperate river. Submitted to *Freshwater Science*.
-
-Rack L.E., Freeman M.C., Cowie G., Yang C., McKay S.K., Craig L.S., and Wenger S.J. Quantifying river ecosystem needs: developing environmental flows and metrics for regional water planning in Georgia, USA. Accepted at *PLoS Water*.
 
 Hallemeier J. and McKay S.K. Building capacities for natural and nature-based features through collaboration in Jamaica Bay, New York City. Submitted to *Ecology & Society*.
 
@@ -67,6 +63,10 @@ McKay S.K., Goss M., Veraldi F., and Mattingly L. Simple Model for Urban Riparia
 McKay S.K., Hernández-Abrams D.D., Allen S., Miller J., Weppler P., and Swannack T.M. Developing a multi-ecosystem conceptual model for the New York Bight. In press for *ERDC TN-EMRRP*. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
 
 ## Journal Papers
+
+40\. Rack L.E., Freeman M.C., Cowie G., Yang C., McKay S.K., Craig L.S., and Wenger S.J. Developing environmental flows and metrics to
+quantify river ecosystem needs for regional water planning in Georgia, USA. *PLoS Water* 5(2): e0000445. https://doi.org/10.1371/journal.
+pwat.0000445. [open access](https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000445)
 
 39\. Corwin E., Reguero B.G., McKay S.K., Piercy C.D., Pontee N.I., Tomiczek T.T., Jameson T., Narayan S., Sridharan V.K., and Bledsoe B.P. 2026. Nature-based design standards: Past, present, and future. ASCE Open., 4(1): 04026002. [open access](https://doi.org/10.1061/AOMJAH.AOENG-0068). 
 
@@ -254,6 +254,8 @@ McKay S.K., Hernández-Abrams D.D., Allen S., Miller J., Weppler P., and Swannac
 ## Miscellaneous Publications
 
 This section includes book chapters, full-length conference proceeding papers, magazines, popular press, and model vignettes.
+
+31\. Cushway K.C., Rodriguez J., Foxfoot I.R., and McKay S.K. 2026. Ecological data visualization as a means to narrative building. *Encyclopedia of Ecology*, 3rd Edition. doi:10.1016/B978-0-443-21964-1.00125-7. [pdf](publications/Cushway et al. - 2026 - DataViz.pdf)
 
 30\. McKay S.K., Hernández-Abrams D.D., and Cushway K.C. 2024. Package ‘ecorest’. [CRAN Reference Manual](https://cran.r-project.org/web/packages/ecorest/).
 
