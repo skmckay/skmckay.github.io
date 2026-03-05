@@ -32,12 +32,16 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=FALSE)
 
 # **Odds and Ends**
 
-This page contains little scraps of ideas that are poorly formed and disorganized. It is mostly archival of notes for myself, but I thought some of these might also be helpful for others. Use this information at your own risk!  
+This page contains little scraps of ideas that are poorly formed and disorganized. It is mostly archival of notes for myself, but I thought some of these might also be helpful for others. Use this information at your own risk!
 
-- [Middle Oconee Bibliography](https://skmckay.github.io/MiddleOconee/): A list of scientific studies and resources focused on the Middle Oconee River near Athens, Georgia.  
-- [Scientific writing resources](https://skmckay.github.io/ScientificWriting/): Papers and web resources for developing scientific papers and navigating authorship questions. 
-- [An abridged list of NBS guidance](https://skmckay.github.io/NBS.Guidance/): The world of nature-based solutions is evolving rapidly. This list catalogs a few of the "guidance" documents being released (mostly so I don't forget about some of them).  
-- Facilitation resources: Coming soon.  
+- [Middle Oconee Bibliography](https://skmckay.github.io/MiddleOconee/): A list of scientific studies and resources focused on the Middle Oconee River near Athens, Georgia.\
+- [Scientific writing resources](https://skmckay.github.io/ScientificWriting/): Papers and web resources for developing scientific papers and navigating authorship questions.
+- [An abridged list of NBS guidance](https://skmckay.github.io/NBS.Guidance/): The world of nature-based solutions is evolving rapidly. This list catalogs a few of the "guidance" documents being released (mostly so I don't forget about some of them).\
+- Facilitation resources: Coming soon.\
 - Ecological model development resources: Coming soon.  
-
-
+- Odds and ends of press coverage:  
+  - New York Times, Article about The Nature Record (2026): [Nature Report, Killed by Trump, Is Released Independently](https://www.nytimes.com/2026/03/05/climate/trump-nature-assessment.html?unlocked_article_code=1.Q1A.NUB-.fclJcJwsatyD&smid=url-share)  
+  - Athens Banner-Hearld, Letter to the Editor (2015): [Help protect Athens' water resources](https://www.onlineathens.com/story/opinion/2015/07/01/mckay-help-protect-athens-water-resources/15490201007/)  
+  - Athens Banner-Herald, Opinion-Editorial (2015): [The valye of a local riparian buffer ordinance](https://www.onlineathens.com/story/opinion/2015/05/28/mckay-upper-oconee-watershed-network/15493071007/)  
+  - Athens Banner-Herald, Opinion-Editorial (2012): [Pay attention to drought measurement data](https://www.onlineathens.com/story/opinion/2012/04/11/mckay-rasmussen-maintain-awareness-drought/15613879007/)
+  
