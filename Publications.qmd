@@ -40,6 +40,8 @@ Scientific impact derives through dozens of mechanisms ranging from effects on p
 
 McKay S.K., Hunter J., Ruff J., Burns M., Ackerman D., and Long M. Aligning multiple methods to inform integrated catchment planning in the Brewer Lake Watershed, Arkansas, USA. In preparation for *Water*. 
 
+Stepchinski L.M., McKay S.K., and Menichino G.T. A synthesis and inventory of stream functions. Submitted to *River Research and Applications*.
+
 Harris A.E., Cushway K.C., Stowe E.S., Schwalb A.N., McKay S.K., and Swannack T.M. Identifying drivers of mussel distribution using hydraulic simulation and machine learning. Submitted to *Ecological Monographs*.
 
 Stowe E., Harris A.E., Archdeacon T., Yackulic C.B. and McKay S.K. Integrating hydraulic and population models to estimate the population impacts of site-scale floodplain restoration. Submitted to *Ecosphere*.
