@@ -66,7 +66,7 @@ McKay S.K., Hernández-Abrams D.D., Allen S., Miller J., Weppler P., and Swannac
 
 ## Journal Papers
 
-42\. Cushway K., Shaw C., McKay S.K., and Swannack T.M. Evaluating habitat suitability models with sensitivity and uncertainty analysis. Accepted at *Environmental Modelling and Software*.
+42\. Cushway K., Shaw C., McKay S.K., and Swannack T.M. Evaluating habitat suitability models with sensitivity and uncertainty analysis. *Environmental Modelling and Software*, 203, 106984, https://doi.org/10.1016/j.envsoft.2026.106984. [open access](https://www.sciencedirect.com/science/article/pii/S1364815226001313?via%3Dihub)
 
 41\. Jumani S., McKay S.K., Moberg T., Hoenke K., and Wenger S.J.  2026. Estimating the monetary costs of aging dam removals in the United States. *Environmental Challenges*, 23 (2026) 101472, https://doi.org/10.1016/j.envc.2026.101472. [open access](https://www.sciencedirect.com/science/article/pii/S2667010026000661?via%3Dihub) 
 
