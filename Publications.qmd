@@ -261,6 +261,8 @@ pwat.0000445. [open access](https://journals.plos.org/water/article?id=10.1371/j
 
 This section includes book chapters, full-length conference proceeding papers, magazines, popular press, and model vignettes.
 
+32.\ Bisht, V., Ziter, C. D., Grimm, N. B., Berbés-Blázquez, M., Grabowski, Z., MacIvor, S., McKay, K., Kesling, J. R., Sauer, J., Tiernan, R., Diep, L., & McPhearson, T. (2026) United States & Canada Roadmap for Urban Nature-Based Solutions. In: The Global Roadmap for Urban Nature-Based Solutions. New York City, NY: NATURA.
+
 31\. Cushway K.C., Rodriguez J., Foxfoot I.R., and McKay S.K. 2026. Ecological data visualization as a means to narrative building. *Encyclopedia of Ecology*, 3rd Edition. doi:10.1016/B978-0-443-21964-1.00125-7. [pdf](publications/Cushway et al. - 2026 - DataViz.pdf)
 
 30\. McKay S.K., Hernández-Abrams D.D., and Cushway K.C. 2024. Package ‘ecorest’. [CRAN Reference Manual](https://cran.r-project.org/web/packages/ecorest/).
