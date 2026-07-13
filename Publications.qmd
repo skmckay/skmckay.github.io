@@ -40,21 +40,19 @@ Scientific impact derives through dozens of mechanisms ranging from effects on p
 
 McKay S.K., Talchabhadel R., Lackey T., Lillycrop W.J., Van Der Eb M., Dugan K., Gharagozlou A., Kuennen T., Seamster E., Washington R., and Massey C. Cultivating a public-private-academic partnership for workforce development related to numerical models for water resource engineering applications. In preparation for *ASCE Journal of Civil Engineering Education*. 
 
-McKay S.K., Hunter J., Ruff J., Burns M., Ackerman D., and Long M. Aligning multiple methods to inform integrated catchment planning in the Brewer Lake Watershed, Arkansas, USA. In preparation for *Water*. 
+McKay S.K., Hunter J., Ruff J., Burns M., Ackerman D., and Long M. Aligning multiple methods to inform integrated catchment planning in the Brewer Lake Watershed, Arkansas, USA. Submitted to *Water*. 
 
 Stepchinski L.M., McKay S.K., and Menichino G.T. A tiered approach to developing function-based stream assessments. Submitted to *Journal of the American Water Resources Association*. 
 
 Stepchinski L.M., McKay S.K., and Menichino G.T. A synthesis and inventory of stream functions. Submitted to *River Research and Applications*.
 
-Harris A.E., Cushway K.C., Stowe E.S., Schwalb A.N., McKay S.K., and Swannack T.M. Identifying drivers of mussel distribution using hydraulic simulation and machine learning. Submitted to *Ecological Monographs*.
+Harris A.E., Cushway K.C., Stowe E.S., Schwalb A.N., McKay S.K., and Swannack T.M. Identifying drivers of mussel distribution using hydraulic simulation and machine learning. Accepted at *Ecosphere*.
 
-Stowe E., Harris A.E., Archdeacon T., Yackulic C.B. and McKay S.K. Integrating hydraulic and population models to estimate the population impacts of site-scale floodplain restoration. Submitted to *Ecosphere*.
+Stowe E., Harris A.E., Archdeacon T., Yackulic C.B. and McKay S.K. Integrating hydraulic and population models to estimate the population impacts of site-scale floodplain restoration. Accepted at *Ecosphere*.
 
 Conn C.C., Rosemond A.D., Bumpers P.M., Freeman M.C., McKay S.K., and Wenger S.J. Antecedent flow conditions drive patterns of primary producer biomass in a mid-sized temperate river. Submitted to *Freshwater Science*.
 
 Hallemeier J. and McKay S.K. Building capacities for natural and nature-based features through collaboration in Jamaica Bay, New York City. Submitted to *Ecology & Society*.
-
-Irving K., Mathwin R., Kotalik C., Webb J.A., Walters D.M., Lovett S.E., McKay S.K., Torrens C., Olson J., and El Jack Z. Adaptive modeling to inform environmental management. Submitted to *Environmental Management*.
 
 McKay S.K., Wiest S.R., McFadden S., and Hawkins J. Riparian model evaluation in Beargrass Creek, Louisville, Kentucky. In press for *ERDC TN-EMRRP*. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
 
@@ -66,13 +64,13 @@ McKay S.K., Hernández-Abrams D.D., Allen S., Miller J., Weppler P., and Swannac
 
 ## Journal Papers
 
+43\.  Irving K., Mathwin R., Kotalik C.J., Webb J.A., Walters D.M., Lovett S., McKay S.K., Torrens C.L., Olson J.R., and El Jack Z.A. 2026. Adaptive modeling to inform environmental management. *Environmental Management*, 76 (233), https://doi.org/10.1007/s00267-026-02550-w. [pdf](publications/Irving et al. - 2026 - adaptive modeling.pdf)
+
 42\. Cushway K., Shaw C., McKay S.K., and Swannack T.M. Evaluating habitat suitability models with sensitivity and uncertainty analysis. *Environmental Modelling and Software*, 203, 106984, https://doi.org/10.1016/j.envsoft.2026.106984. [open access](https://www.sciencedirect.com/science/article/pii/S1364815226001313?via%3Dihub)
 
 41\. Jumani S., McKay S.K., Moberg T., Hoenke K., and Wenger S.J.  2026. Estimating the monetary costs of aging dam removals in the United States. *Environmental Challenges*, 23 (2026) 101472, https://doi.org/10.1016/j.envc.2026.101472. [open access](https://www.sciencedirect.com/science/article/pii/S2667010026000661?via%3Dihub) 
 
-40\. Rack L.E., Freeman M.C., Cowie G., Yang C., McKay S.K., Craig L.S., and Wenger S.J. Developing environmental flows and metrics to
-quantify river ecosystem needs for regional water planning in Georgia, USA. *PLoS Water* 5(2): e0000445. https://doi.org/10.1371/journal.
-pwat.0000445. [open access](https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000445)
+40\. Rack L.E., Freeman M.C., Cowie G., Yang C., McKay S.K., Craig L.S., and Wenger S.J. Developing environmental flows and metrics to quantify river ecosystem needs for regional water planning in Georgia, USA. *PLoS Water* 5(2): e0000445. https://doi.org/10.1371/journal.pwat.0000445. [open access](https://journals.plos.org/water/article?id=10.1371/journal.pwat.0000445)
 
 39\. Corwin E., Reguero B.G., McKay S.K., Piercy C.D., Pontee N.I., Tomiczek T.T., Jameson T., Narayan S., Sridharan V.K., and Bledsoe B.P. 2026. Nature-based design standards: Past, present, and future. ASCE Open., 4(1): 04026002. [open access](https://doi.org/10.1061/AOMJAH.AOENG-0068). 
 
@@ -261,7 +259,7 @@ pwat.0000445. [open access](https://journals.plos.org/water/article?id=10.1371/j
 
 This section includes book chapters, full-length conference proceeding papers, magazines, popular press, and model vignettes.
 
-32.\ Bisht, V., Ziter, C. D., Grimm, N. B., Berbés-Blázquez, M., Grabowski, Z., MacIvor, S., McKay, K., Kesling, J. R., Sauer, J., Tiernan, R., Diep, L., & McPhearson, T. (2026) United States & Canada Roadmap for Urban Nature-Based Solutions. In: The Global Roadmap for Urban Nature-Based Solutions. New York City, NY: NATURA.
+32.\ Bisht, V., Ziter, C. D., Grimm, N. B., Berbés-Blázquez, M., Grabowski, Z., MacIvor, S., McKay, K., Kesling, J. R., Sauer, J., Tiernan, R., Diep, L., & McPhearson, T. (2026) United States & Canada Roadmap for Urban Nature-Based Solutions. In: The Global Roadmap for Urban Nature-Based Solutions. New York City, NY: NATURA. [open access](https://drive.google.com/file/d/18tXYDKH5JsBfZ6_bf-q0-p3CmQIAAWvr/view)
 
 31\. Cushway K.C., Rodriguez J., Foxfoot I.R., and McKay S.K. 2026. Ecological data visualization as a means to narrative building. *Encyclopedia of Ecology*, 3rd Edition. doi:10.1016/B978-0-443-21964-1.00125-7. [pdf](publications/Cushway et al. - 2026 - DataViz.pdf)
 
