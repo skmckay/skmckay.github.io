@@ -53,21 +53,21 @@ The Geospatial Suitability Indices Toolbox (GSI Toolbox) provides an ArcGIS Pro 
 -   [ERDC Technical Report SR-22-4](https://erdc-library.erdc.dren.mil/bitstreams/63c6c2a8-e005-4727-b8fc-97c1c768a402/download)(Saltus et al. 2022)\
 -   [GIS Toolbox](https://dx.doi.org/10.21079/11681/41881)
 
-
 **Stream Assessment Database**
 
-Stream assessments are needed to inform regulatory decisions, mitigation and restoration design, and other management practices. Many methods have emerged to meet regional needs and specific management contexts. The number of available approaches creates confusion over the relative merits of methods and appropriate use cases. Furthermore, the complexity of these approaches ranges from rapid evaluations requiring minutes to complete to detailed methods needing weeks of effort. However, the level of effort associated with approaches is rarely tracked for method selection. Differences in measurement metrics and data collection create obstacles to consistent, meaningful comparisons across methods and regions. We compiled and analyzed 188 stream assessment methods into an interactive database, revealing four core challenges: (1) inefficient identification of methods, (2) diverse metrics for ecosystem condition, (3) a wide range of resource needs, and (4) limited comparability of results. 
+Stream assessments are needed to inform regulatory decisions, mitigation and restoration design, and other management practices. Many methods have emerged to meet regional needs and specific management contexts. The number of available approaches creates confusion over the relative merits of methods and appropriate use cases. Furthermore, the complexity of these approaches ranges from rapid evaluations requiring minutes to complete to detailed methods needing weeks of effort. However, the level of effort associated with approaches is rarely tracked for method selection. Differences in measurement metrics and data collection create obstacles to consistent, meaningful comparisons across methods and regions. We compiled and analyzed 188 stream assessment methods into an interactive database, revealing four core challenges: (1) inefficient identification of methods, (2) diverse metrics for ecosystem condition, (3) a wide range of resource needs, and (4) limited comparability of results.
 
--   [Interactive database](https://usace-wrises.github.io/RiverEngineeringResources/assessment).\  
+-   [Interactive database](https://usace-wrises.github.io/RiverEngineeringResources/assessment). 
 -   [Journal article](https://onlinelibrary.wiley.com/doi/10.1111/1752-1688.70056) summarizing the compilation of the database and synthesizing findings about trends in stream assessment.
-
 
 **Riparian Ecological Functions Index (REFI)**
 
 Riparian zones are important transitional areas between upland and stream ecosystems that improve water quality, provide ecological habitat and corridors, maintain natural hydrologic processes, and provide other important ecosystem goods and services. U.S. Army Corps of Engineers’ actions often affect riparian ecosystem structure and function such as ecological benefits associated with stream restoration projects and impacts associated with levee management. While some regional assessment procedures are available, practitioners lack broadly applicable models and tools for assessing riparian ecosystem condition. The Riparian Ecological Function Index (REFI) is a semi-quantitative, rapid assessment technique intended for nationwide use. This model is structured around three major ecological functions of riparian zones: (1) the riparian zone’s effect on instream outcomes, (2) its role in ecological connectivity, (3) how it provides unique and important habitats for a variety of taxa.
 
--   The model is currently being reviewed for USACE certification.\
--   Model documentation is also in review as an ERDC Technical Report.\
+-   The model is certified for USACE uses nationwide.\
+-   The model calculator may be accessed here ([xlsx](publications/REFI_Calculator_2026-07.xlsx)).\
+-   The accompanying field data sheet may be accessed here ([pdf](publications/REFI_Field_Worksheet_2026-07.pdf)).\
+-   Model documentation is in review as an ERDC Technical Report.\
 -   A model overview was provided in an [EMRRP Webinar](https://emrrp.el.erdc.dren.mil/webinars.html) on January 29, 2024.\
 -   A beta version of REFI was applied in the [Utoy Creek ecosystem restoration study](https://www.mdpi.com/2073-445X/14/3/449).
 
@@ -84,11 +84,10 @@ Riparian zones are important transitional areas between upland and stream ecosys
 
 **Buffer Relative Assessment Tool (BRAT)**
 
-Many tools have been developed to inform riparian management ranging from mechanistic vegetative growth models to habitat suitability indices to multi-metric scoring systems. As a simple proxy, riparian zone width has provided a useful first order metric for estimating functional outcomes. This model provides a simple quantitative tool for assessing riparian zone quality based on rapidly applicable desktop analyses, the Buffer Relative Assessment Tool (BRAT). The model seeks to inform preliminary stream restoration planning when comparing the relative merits of multiple restoration sites (e.g., Site-A vs. Site-B) or divergent alternatives (e.g., large-scale levee setback vs. riparian planting of existing riparian areas). 
+Many tools have been developed to inform riparian management ranging from mechanistic vegetative growth models to habitat suitability indices to multi-metric scoring systems. As a simple proxy, riparian zone width has provided a useful first order metric for estimating functional outcomes. This model provides a simple quantitative tool for assessing riparian zone quality based on rapidly applicable desktop analyses, the Buffer Relative Assessment Tool (BRAT). The model seeks to inform preliminary stream restoration planning when comparing the relative merits of multiple restoration sites (e.g., Site-A vs. Site-B) or divergent alternatives (e.g., large-scale levee setback vs. riparian planting of existing riparian areas).
 
 -   [Journal paper](https://www.sciencedirect.com/science/article/pii/S2667010025001775?via%3Dihub) describing a meta-analysis of riparian buffer performance relative to water quality and biodiversity outcomes.\
 -   A [web application](https://skmckay.shinyapps.io/BRAT/) for rapid comparison of riparian buffers is currently being reviewed for USACE certification.\
-
 
 **Watershed Upstream Connectivity Toolkit (WUCT)**
 
@@ -204,14 +203,12 @@ Dam removal has grown into a common action for both river restoration and infras
 -   [Journal paper](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2023.1215471/full) presenting model background and data\
 -   [Cost engineering report](https://www.usgs.gov/publications/dam-removal-cost-databases-and-drivers) to guide cost estimation procedures for dam removal
 
-
 **Dam Removal Objective Selector**
 
-Proactive and transparent decision-making about the long-term management of dams, including rehabilitation, retrofit, and removal, is critical for successfully managing this aging infrastructure and presents an opportunity to weigh the many services and disservices dams provide. Existing tools to support dam removal decisions often constrain decision processes by considering only a limited set of user objectives. To facilitate dam removal decisions with diverse objectives, we created a  web application, which supports decisions with 18 objectives that we identified in the literature. The application guides users to select appropriate objectives, choose metrics and methods to evaluate management alternatives, and identify additional decision-support tools to weigh alternatives relative to selected objectives. 
+Proactive and transparent decision-making about the long-term management of dams, including rehabilitation, retrofit, and removal, is critical for successfully managing this aging infrastructure and presents an opportunity to weigh the many services and disservices dams provide. Existing tools to support dam removal decisions often constrain decision processes by considering only a limited set of user objectives. To facilitate dam removal decisions with diverse objectives, we created a web application, which supports decisions with 18 objectives that we identified in the literature. The application guides users to select appropriate objectives, choose metrics and methods to evaluate management alternatives, and identify additional decision-support tools to weigh alternatives relative to selected objectives.
 
 -   [Web application](https://n-ewn.org/dam-removal-tool/)\
 -   [Journal paper](https://onlinelibrary.wiley.com/doi/10.1002/rra.4390)\
-
 
 **Utoy Creek Decision Support Models**
 
