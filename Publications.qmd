@@ -64,6 +64,8 @@ McKay S.K., Hernández-Abrams D.D., Allen S., Miller J., Weppler P., and Swannac
 
 ## Journal Papers
 
+44\. Scoggins, M., Burns M.J., Chee Y.E., Coleman R.A., Mazor R.D., McKay S.K., Murphy B.M., Porras A.A., and Russell K.L. 2026. Decision support tools for waterway managers: Spatially explicit data, models, engagement, and monitoring. Freshwater Science, https://doi.org/10.1086/742680. [pdf](publications/Scoggins et al. - 2026 - decision support tools.pdf)
+
 43\.  Irving K., Mathwin R., Kotalik C.J., Webb J.A., Walters D.M., Lovett S., McKay S.K., Torrens C.L., Olson J.R., and El Jack Z.A. 2026. Adaptive modeling to inform environmental management. *Environmental Management*, 76 (233), https://doi.org/10.1007/s00267-026-02550-w. [pdf](publications/Irving et al. - 2026 - adaptive modeling.pdf)
 
 42\. Cushway K., Shaw C., McKay S.K., and Swannack T.M. Evaluating habitat suitability models with sensitivity and uncertainty analysis. *Environmental Modelling and Software*, 203, 106984, https://doi.org/10.1016/j.envsoft.2026.106984. [open access](https://www.sciencedirect.com/science/article/pii/S1364815226001313?via%3Dihub)
