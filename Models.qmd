@@ -78,7 +78,7 @@ Riparian zones are important transitional areas between upland and stream ecosys
 -   [Web application](https://wrises.shinyapps.io/warm/) is currently being reviewed for USACE certification.\
 -   [repo for web application](https://github.com/USACE-WRISES/riparian.webapp)\
 -   [Conference paper](https://ascelibrary.org/doi/10.1061/9780784485163.024) summarizing the approach.\
--   Model documentation is also in review as an ERDC Technical Note.\
+-   [Model documentation as ERDC technical note](https://erdc-library.erdc.dren.mil/items/41fd4681-c832-4aa2-9f76-f1f47b10ae49).\
 -   [ERDC technical note](https://dx.doi.org/10.21079/11681/47706) summarizing existing riparian models.\
 -   A model overview was provided in an [EMRRP Webinar](https://emrrp.el.erdc.dren.mil/webinars.html) on January 31, 2024.
 

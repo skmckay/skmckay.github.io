@@ -54,8 +54,6 @@ Conn C.C., Rosemond A.D., Bumpers P.M., Freeman M.C., McKay S.K., and Wenger S.J
 
 Hallemeier J. and McKay S.K. Building capacities for natural and nature-based features through collaboration in Jamaica Bay, New York City. Submitted to *Ecology & Society*.
 
-McKay S.K., Wiest S.R., McFadden S., and Hawkins J. Riparian model evaluation in Beargrass Creek, Louisville, Kentucky. In press for *ERDC TN-EMRRP*. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
-
 Abera L., Shaw C., and McKay S.K. A user’s guide for the engineering economics toolbox (EngrEcon, Version 1.0). In review for *ERDC TR-EMRRP*. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
 
 McKay S.K., Goss M., Veraldi F., and Mattingly L. Simple Model for Urban Riparian Function (SMURF), Version 1.0. In review for *ERDC TR-EMRRP*. U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
@@ -153,6 +151,10 @@ McKay S.K., Hernández-Abrams D.D., Allen S., Miller J., Weppler P., and Swannac
 1\. Stone M.C., Chen L., McKay S.K., Goreham J., Acharya K., Fischenich C., and Stone A.B. 2013. Bending of submerged woody riparian vegetation as a function of hydraulic flow conditions. *River Research and Applications*, 29 (2), 195-205. doi: 10.1002/rra.1592. [pdf](publications/Stone%20et%20al.%20-%202013%20-%20TreeBending.pdf)
 
 ## Government Reports
+
+50.\ Wiest S.R., Shaw C., and McKay S.K. 2026. A web application for riparian models (WARM). [ERDC/TN EMRRP-RQ-7](https://erdc-library.erdc.dren.mil/items/41fd4681-c832-4aa2-9f76-f1f47b10ae49). U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
+
+49.\ McKay S.K., Wiest S.R., McFadden S., and Hawkins J.A. 2026. Riparian model evaluation in Beargrass Creek, Kentucky. [ERDC/TN EMRRP-RQ-8](https://erdc-library.erdc.dren.mil/items/bd7f5544-8968-4635-9d01-e9120c56430c). U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
 
 48.\ Stowe E.S., Hernandez-Abrams D.D., Harris A.E., Swannack T.M., Buenau K.E., Irving K., Jumani S., Porter M.D., Quintana V.M., Dougherty M.P., McCain K.N.S., Runyon K.R., Smith D.L., and McKay S.K. 2026. Updating ecological modeling within the US Army Corps of Engineers (USACE) : exploring innovative approaches and implementation strategies. [ERDC-EL TR-26-11](https://erdc-library.erdc.dren.mil/entities/publication/5fabc777-f104-4874-9346-76511c11c9b7). U.S. Army Engineer Research and Development Center, Vicksburg, Mississippi.
 
